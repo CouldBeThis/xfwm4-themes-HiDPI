@@ -1,3 +1,41 @@
+2003-07-10 11:45  huysmans
+
+	* configure, configure.ac: Bump versions for release and update po
+	files
+
+2003-07-08 22:20  xfce
+
+	* themes/redmond/: close-active.xpm, close-inactive.xpm,
+	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
+	maximize-pressed.xpm: [no log message]
+
+2003-07-08 21:58  xfce
+
+	* themes/kleanux/themerc: [no log message]
+
+2003-07-07 22:14  xfce
+
+	* themes/kleanux/: Makefile.am, Makefile.in, README,
+	bottom-active.xpm, bottom-inactive.xpm, bottom-left-active.xpm,
+	bottom-left-inactive.xpm, bottom-right-active.xpm,
+	bottom-right-inactive.xpm, close-active.xpm, close-inactive.xpm,
+	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, left-active.xpm, left-inactive.xpm,
+	maximize-active.xpm, maximize-inactive.xpm, maximize-pressed.xpm,
+	menu-active.xpm, menu-inactive.xpm, menu-pressed.xpm,
+	right-active.xpm, right-inactive.xpm, themerc, title-1-active.xpm,
+	title-1-inactive.xpm, title-2-active.xpm, title-2-inactive.xpm,
+	title-3-active.xpm, title-3-inactive.xpm, title-4-active.xpm,
+	title-4-inactive.xpm, title-5-active.xpm, title-5-inactive.xpm,
+	top-left-active.xpm, top-left-inactive.xpm, top-right-active.xpm,
+	top-right-inactive.xpm: Use my modified version of kleanux based on
+	Mark C. Chu-Carroll version
+
+2003-07-06 22:14  huysmans
+
+	* ChangeLog: Update ChangeLogs
+
 2003-07-06 21:28  bmeurer
 
 	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in:
