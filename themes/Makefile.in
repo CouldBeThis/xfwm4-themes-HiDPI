@@ -96,6 +96,7 @@ target_alias = @target_alias@
 SUBDIRS = \
 	adept								\
 	agua								\
+	agualemon							\
 	alternate							\
 	atlanta								\
 	atlanta2							\
