@@ -64,6 +64,7 @@ themes/retro/Makefile
 themes/silverado/Makefile
 themes/slick/Makefile
 themes/slimline/Makefile
+themes/smallscreen/Makefile
 themes/tabs/Makefile
 themes/today/Makefile
 themes/totem/Makefile

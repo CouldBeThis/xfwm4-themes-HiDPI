@@ -51,6 +51,7 @@ SUBDIRS =								\
 	silverado							\
 	slick								\
 	slimline							\
+	smallscreen							\
 	tabs								\
 	today								\
 	totem								\
