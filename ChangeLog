@@ -1,3 +1,51 @@
+2004-11-06 17:25  olivier
+
+	* ChangeLog, Makefile.in, aclocal.m4, configure, configure.ac,
+	  install-sh, missing, themes/Makefile.in,
+	  themes/adept/Makefile.in, themes/agua/Makefile.in,
+	  themes/agualemon/Makefile.in, themes/alternate/Makefile.in,
+	  themes/atlanta/Makefile.in, themes/atlanta2/Makefile.in,
+	  themes/b5/Makefile.in, themes/b6/Makefile.in,
+	  themes/basix/Makefile.in, themes/bbs/Makefile.in,
+	  themes/beastie/Makefile.in, themes/biz/Makefile.in,
+	  themes/blackwall/Makefile.in, themes/buzz/Makefile.in,
+	  themes/coldsteel/Makefile.in, themes/coolclean/Makefile.in,
+	  themes/crux/Makefile.in, themes/cruxish/Makefile.in,
+	  themes/curve/Makefile.in, themes/defcon-IV/Makefile.in,
+	  themes/eazel-blue/Makefile.in, themes/elberg/Makefile.in,
+	  themes/exocet/Makefile.in, themes/fbx/Makefile.in,
+	  themes/g2/Makefile.in, themes/galaxy/Makefile.in,
+	  themes/gaudy/Makefile.in, themes/gelly/Makefile.in,
+	  themes/gnububble/Makefile.in, themes/gorilla/Makefile.in,
+	  themes/gtk/Makefile.in, themes/iceg/Makefile.in,
+	  themes/kde/Makefile.in, themes/kde1/Makefile.in,
+	  themes/keramik/Makefile.in, themes/kindaker/Makefile.in,
+	  themes/kleanux/Makefile.in, themes/koynacity/Makefile.in,
+	  themes/linea/Makefile.in, themes/lineart/Makefile.in,
+	  themes/meenee/Makefile.in, themes/metabox/Makefile.in,
+	  themes/microcurve/Makefile.in, themes/microdeck/Makefile.in,
+	  themes/microdeck2/Makefile.in, themes/microdeck3/Makefile.in,
+	  themes/microgui/Makefile.in, themes/mofit/Makefile.in,
+	  themes/next/Makefile.in, themes/ops/Makefile.in,
+	  themes/oroborus/Makefile.in, themes/perl/Makefile.in,
+	  themes/pills/Makefile.in, themes/piranha/Makefile.in,
+	  themes/platinum/Makefile.in, themes/prune/Makefile.in,
+	  themes/quiet-purple/Makefile.in, themes/quinx/Makefile.in,
+	  themes/r9x/Makefile.in, themes/redmond/Makefile.in,
+	  themes/redmondxp/Makefile.in, themes/retro/Makefile.in,
+	  themes/savage/Makefile.in, themes/silverado/Makefile.in,
+	  themes/slick/Makefile.in, themes/slimline/Makefile.in,
+	  themes/smallscreen/Makefile.in, themes/smoothwall/Makefile.in,
+	  themes/synthetic/Makefile.in, themes/tabs/Makefile.in,
+	  themes/tgc/Makefile.in, themes/tgc-large/Makefile.in,
+	  themes/today/Makefile.in, themes/totem/Makefile.in,
+	  themes/trench/Makefile.in, themes/triviality/Makefile.in,
+	  themes/tubular/Makefile.in, themes/tux/Makefile.in,
+	  themes/variation/Makefile.in, themes/xfce/Makefile.in: Update
+	  automake/autoconf/libtool/gettext versions to generate the
+	  configure scripts and Makefiles, Update versions of all packages
+	  to 4.1.99.1 (ie 4.2 RC1), Update ChangeLogs.
+
 2004-10-30 21:03  olivier
 
 	* AUTHORS, ChangeLog: Global update for 4.1.91 (Xfce 4.2 beta 2)
