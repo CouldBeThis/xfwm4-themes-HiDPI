@@ -1,3 +1,65 @@
+2004-10-21 22:07  olivier
+
+	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
+	  themes/b6/themerc, themes/basix/Makefile.am,
+	  themes/basix/Makefile.in, themes/basix/README,
+	  themes/basix/bottom-active.xpm, themes/basix/bottom-inactive.xpm,
+	  themes/basix/bottom-left-active.xpm,
+	  themes/basix/bottom-left-inactive.xpm,
+	  themes/basix/bottom-right-active.xpm,
+	  themes/basix/bottom-right-inactive.xpm,
+	  themes/basix/close-active.xpm, themes/basix/close-inactive.xpm,
+	  themes/basix/close-pressed.xpm, themes/basix/hide-active.xpm,
+	  themes/basix/hide-inactive.xpm, themes/basix/hide-pressed.xpm,
+	  themes/basix/inactive.png, themes/basix/left-active.xpm,
+	  themes/basix/left-inactive.xpm, themes/basix/maximize-active.xpm,
+	  themes/basix/maximize-inactive.xpm,
+	  themes/basix/maximize-pressed.xpm,
+	  themes/basix/maximize-toggled-active.xpm,
+	  themes/basix/maximize-toggled-inactive.xpm,
+	  themes/basix/maximize-toggled-pressed.xpm,
+	  themes/basix/menu-active.xpm, themes/basix/menu-inactive.xpm,
+	  themes/basix/menu-pressed.xpm, themes/basix/right-active.xpm,
+	  themes/basix/right-inactive.xpm, themes/basix/shade-active.xpm,
+	  themes/basix/shade-inactive.xpm, themes/basix/shade-pressed.xpm,
+	  themes/basix/shade-toggled-active.xpm,
+	  themes/basix/shade-toggled-inactive.xpm,
+	  themes/basix/shade-toggled-pressed.xpm,
+	  themes/basix/stick-active.xpm, themes/basix/stick-inactive.xpm,
+	  themes/basix/stick-pressed.xpm,
+	  themes/basix/stick-toggled-active.xpm,
+	  themes/basix/stick-toggled-inactive.xpm,
+	  themes/basix/stick-toggled-pressed.xpm, themes/basix/themerc,
+	  themes/basix/title-1-active.png, themes/basix/title-1-active.xpm,
+	  themes/basix/title-1-inactive.png,
+	  themes/basix/title-1-inactive.xpm,
+	  themes/basix/title-2-active.png, themes/basix/title-2-active.xpm,
+	  themes/basix/title-2-inactive.png,
+	  themes/basix/title-2-inactive.xpm,
+	  themes/basix/title-3-active.png, themes/basix/title-3-active.xpm,
+	  themes/basix/title-3-inactive.png,
+	  themes/basix/title-3-inactive.xpm,
+	  themes/basix/title-4-active.png, themes/basix/title-4-active.xpm,
+	  themes/basix/title-4-inactive.png,
+	  themes/basix/title-4-inactive.xpm,
+	  themes/basix/title-5-active.png, themes/basix/title-5-active.xpm,
+	  themes/basix/title-5-inactive.png,
+	  themes/basix/title-5-inactive.xpm,
+	  themes/basix/top-left-active.png,
+	  themes/basix/top-left-active.xpm,
+	  themes/basix/top-left-inactive.png,
+	  themes/basix/top-left-inactive.xpm,
+	  themes/basix/top-right-active.png,
+	  themes/basix/top-right-active.xpm,
+	  themes/basix/top-right-inactive.png,
+	  themes/basix/top-right-inactive.xpm: Add a theme I had for a
+	  while...
+
+2004-10-02 15:28  olivier
+
+	* ChangeLog, configure, configure.ac: Update all files for 4.2 beta
+	  1
+
 2004-10-02 12:30  olivier
 
 	* themes/: b5/themerc, b6/themerc, beastie/themerc, r9x/themerc,
