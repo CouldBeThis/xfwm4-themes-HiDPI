@@ -4,6 +4,7 @@
 SUBDIRS =								\
 	adept								\
 	agua								\
+	alternate							\
 	atlanta								\
 	atlanta2							\
 	b5								\

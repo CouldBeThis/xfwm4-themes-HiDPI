@@ -17,6 +17,7 @@ Makefile
 themes/Makefile
 themes/adept/Makefile
 themes/agua/Makefile
+themes/alternate/Makefile
 themes/atlanta/Makefile
 themes/atlanta2/Makefile
 themes/b5/Makefile
