@@ -4,7 +4,7 @@ AC_INIT([configure])
 
 AM_CONFIG_HEADER(config.h)
 
-AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.2])
+AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.3])
 
 AM_MAINTAINER_MODE
 
@@ -82,7 +82,6 @@ themes/slick/Makefile
 themes/slimline/Makefile
 themes/smallscreen/Makefile
 themes/smoothwall/Makefile
-themes/symphony/Makefile
 themes/synthetic/Makefile
 themes/tabs/Makefile
 themes/tgc/Makefile
@@ -93,7 +92,6 @@ themes/trench/Makefile
 themes/triviality/Makefile
 themes/tubular/Makefile
 themes/tux/Makefile
-themes/tyrex/Makefile
 themes/variation/Makefile
 themes/xfce/Makefile
 ])

@@ -69,7 +69,6 @@ SUBDIRS =								\
 	slimline							\
 	smallscreen							\
 	smoothwall							\
-	symphony							\
 	synthetic							\
 	tabs								\
 	tgc								\
@@ -80,6 +79,5 @@ SUBDIRS =								\
 	triviality							\
 	tubular								\
 	tux								\
-	tyrex								\
 	variation							\
 	xfce
