@@ -1,0 +1,33 @@
+Summary: 	Additionnal themes for xfwm4
+Name: 		xfwm4-themes
+Version: 	@VERSION@
+Release: 	1
+License:	GPL
+URL: 		http://www.xfce.org/
+Source0: 	%{name}-%{version}.tar.gz
+Group: 		User Interface/Desktops
+BuildRoot: 	%{_tmppath}/%{name}-root
+Requires:	xfwm4
+BuildArch:	noarch
+
+%description
+A set of additionnal themes for the xfwm4 window manager.
+
+%prep
+%setup -q
+
+%build
+%configure
+make
+
+%install
+rm -rf $RPM_BUILD_ROOT
+make install DESTDIR=$RPM_BUILD_ROOT
+
+%clean
+rm -rf $RPM_BUILD_ROOT
+
+%files
+%defattr(-,root,root)
+%doc README INSTALL TODO COPYING AUTHORS
+%{_datadir}/xfwm4/themes

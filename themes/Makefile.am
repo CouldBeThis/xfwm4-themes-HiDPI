@@ -1,0 +1,56 @@
+# themes/Makefile.am
+#
+
+SUBDIRS =								\
+	adept								\
+	agua								\
+	atlanta								\
+	atlanta2							\
+	b5								\
+	b6								\
+	beastie								\
+	biz								\
+	coldsteel							\
+	coolclean							\
+	crux								\
+	cruxish								\
+	eazel-blue							\
+	elberg								\
+	fbx								\
+	g2								\
+	gaudy								\
+	gnububble							\
+	gorilla								\
+	gtk								\
+	iceg								\
+	kde								\
+	keramik								\
+	kindaker							\
+	koynacity							\
+	linea								\
+	metabox								\
+	microgui							\
+	mofit								\
+	next								\
+	ops								\
+	oroborus							\
+	perl								\
+	pills								\
+	piranha								\
+	platinum							\
+	quiet-purple							\
+	quinx								\
+	r9x								\
+	redmond								\
+	redmondxp							\
+	retro								\
+	silverado							\
+	slick								\
+	slimline							\
+	tabs								\
+	totem								\
+	trench								\
+	triviality							\
+	tux								\
+	variation							\
+	xfce
