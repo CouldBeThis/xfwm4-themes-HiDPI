@@ -7,3 +7,5 @@ inactive_text_color=#D8E5F9
 title_alignment=left
 title_shadow_active=true
 title_shadow_inactive=false
+title_vertical_offset_active=4
+title_vertical_offset_inactive=4
