@@ -28,6 +28,7 @@ SUBDIRS =								\
 	g2								\
 	galaxy								\
 	gaudy								\
+	gelly								\
 	gnububble							\
 	gorilla								\
 	gtk								\

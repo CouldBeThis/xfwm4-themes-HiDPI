@@ -41,6 +41,7 @@ themes/fbx/Makefile
 themes/g2/Makefile
 themes/galaxy/Makefile
 themes/gaudy/Makefile
+themes/gelly/Makefile
 themes/gnububble/Makefile
 themes/gorilla/Makefile
 themes/gtk/Makefile
