@@ -1,3 +1,71 @@
+2003-08-25 22:22  xfce
+
+	* themes/smallscreen/: bottom-left-active.xpm,
+	bottom-left-inactive.xpm, bottom-right-active.xpm,
+	bottom-right-inactive.xpm, close-active.xpm, close-inactive.xpm,
+	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
+	maximize-pressed.xpm, menu-active.xpm, menu-inactive.xpm,
+	menu-pressed.xpm, shade-active.xpm, shade-inactive.xpm,
+	shade-pressed.xpm, stick-active.xpm, stick-inactive.xpm,
+	stick-pressed.xpm, title-1-active.xpm, title-1-inactive.xpm,
+	title-2-active.xpm, title-2-inactive.xpm, title-3-active.xpm,
+	title-3-inactive.xpm, title-4-active.xpm, title-4-inactive.xpm,
+	title-5-active.xpm, title-5-inactive.xpm, top-left-active.xpm,
+	top-left-inactive.xpm, top-right-active.xpm,
+	top-right-inactive.xpm: Make "smallscreen" theme smaller
+
+2003-08-24 17:38  xfce
+
+	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
+	themes/smallscreen/Makefile.am, themes/smallscreen/Makefile.in,
+	themes/smallscreen/README, themes/smallscreen/bottom-active.xpm,
+	themes/smallscreen/bottom-inactive.xpm,
+	themes/smallscreen/bottom-left-active.xpm,
+	themes/smallscreen/bottom-left-inactive.xpm,
+	themes/smallscreen/bottom-right-active.xpm,
+	themes/smallscreen/bottom-right-inactive.xpm,
+	themes/smallscreen/close-active.xpm,
+	themes/smallscreen/close-inactive.xpm,
+	themes/smallscreen/close-pressed.xpm,
+	themes/smallscreen/hide-active.xpm,
+	themes/smallscreen/hide-inactive.xpm,
+	themes/smallscreen/hide-pressed.xpm,
+	themes/smallscreen/left-active.xpm,
+	themes/smallscreen/left-inactive.xpm,
+	themes/smallscreen/maximize-active.xpm,
+	themes/smallscreen/maximize-inactive.xpm,
+	themes/smallscreen/maximize-pressed.xpm,
+	themes/smallscreen/menu-active.xpm,
+	themes/smallscreen/menu-inactive.xpm,
+	themes/smallscreen/menu-pressed.xpm,
+	themes/smallscreen/right-active.xpm,
+	themes/smallscreen/right-inactive.xpm,
+	themes/smallscreen/shade-active.xpm,
+	themes/smallscreen/shade-inactive.xpm,
+	themes/smallscreen/shade-pressed.xpm,
+	themes/smallscreen/stick-active.xpm,
+	themes/smallscreen/stick-inactive.xpm,
+	themes/smallscreen/stick-pressed.xpm, themes/smallscreen/themerc,
+	themes/smallscreen/title-1-active.xpm,
+	themes/smallscreen/title-1-inactive.xpm,
+	themes/smallscreen/title-2-active.xpm,
+	themes/smallscreen/title-2-inactive.xpm,
+	themes/smallscreen/title-3-active.xpm,
+	themes/smallscreen/title-3-inactive.xpm,
+	themes/smallscreen/title-4-active.xpm,
+	themes/smallscreen/title-4-inactive.xpm,
+	themes/smallscreen/title-5-active.xpm,
+	themes/smallscreen/title-5-inactive.xpm,
+	themes/smallscreen/top-left-active.xpm,
+	themes/smallscreen/top-left-inactive.xpm,
+	themes/smallscreen/top-right-active.xpm,
+	themes/smallscreen/top-right-inactive.xpm: Add "smallscreen" theme
+
+2003-07-30 13:31  huysmans
+
+	* ChangeLog: Update changlogs
+
 2003-07-30 10:15  huysmans
 
 	* configure, configure.ac: Update version numbers and po files for
