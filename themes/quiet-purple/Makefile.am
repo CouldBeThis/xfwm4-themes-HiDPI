@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/quiet-purple
+themedir = $(datadir)/themes/Quiet-purple/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/tubular
+themedir = $(datadir)/themes/Tubular/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

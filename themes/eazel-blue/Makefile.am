@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/eazel-blue
+themedir = $(datadir)/themes/Eazel-blue/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

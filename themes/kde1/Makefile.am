@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/kde1
+themedir = $(datadir)/themes/Kde1/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/triviality
+themedir = $(datadir)/themes/Triviality/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/oroborus
+themedir = $(datadir)/themes/Oroborus/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

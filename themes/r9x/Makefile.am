@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/r9x
+themedir = $(datadir)/themes/R9X/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

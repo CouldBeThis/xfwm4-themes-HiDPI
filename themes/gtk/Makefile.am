@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/gtk
+themedir = $(datadir)/themes/Gtk/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

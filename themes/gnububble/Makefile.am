@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/gnububble
+themedir = $(datadir)/themes/Gnububble/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

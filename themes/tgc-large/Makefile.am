@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/tgc-large
+themedir = $(datadir)/themes/Tgc-large/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

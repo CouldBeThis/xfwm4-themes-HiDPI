@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/ops
+themedir = $(datadir)/themes/Ops/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

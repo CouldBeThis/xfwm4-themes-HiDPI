@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/kleanux
+themedir = $(datadir)/themes/Kleanux/xfwm4
 theme_DATA = 								\
 	themerc 							\
 	bottom-active.xpm						\

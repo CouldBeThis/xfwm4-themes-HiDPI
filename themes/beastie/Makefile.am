@@ -1,5 +1,5 @@
 
-themedir = $(datadir)/xfwm4/themes/beastie
+themedir = $(datadir)/themes/Beastie/xfwm4
 theme_DATA = README\
 	bottom-active.xpm \
 	bottom-inactive.xpm \

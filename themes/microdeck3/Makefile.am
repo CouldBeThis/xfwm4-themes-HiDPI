@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/microdeck3
+themedir = $(datadir)/themes/Microdeck3/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \

@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/piranha
+themedir = $(datadir)/themes/Piranha/xfwm4
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \
