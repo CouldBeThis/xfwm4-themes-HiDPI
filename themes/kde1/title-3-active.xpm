@@ -6,7 +6,7 @@ static char * title_3_active_xpm[] = {
 "+	c #C0C0C0 s active_color_2",
 "@	c #606060 s active_shadow_2",
 "#	c #00007E s active_color_1",
-"........",
+"++++++++",
 "........",
 "++++++++",
 "@@@@@@@@",
