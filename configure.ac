@@ -40,6 +40,7 @@ themes/gorilla/Makefile
 themes/gtk/Makefile
 themes/iceg/Makefile
 themes/kde/Makefile
+themes/kde1/Makefile
 themes/keramik/Makefile
 themes/kindaker/Makefile
 themes/kleanux/Makefile

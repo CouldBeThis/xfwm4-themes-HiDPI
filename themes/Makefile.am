@@ -27,6 +27,7 @@ SUBDIRS =								\
 	gtk								\
 	iceg								\
 	kde								\
+	kde1								\
 	keramik								\
 	kindaker							\
 	kleanux								\
