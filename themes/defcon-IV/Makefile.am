@@ -1,4 +1,4 @@
-themedir = $(pkgdatadir)/themes/defcon-IV
+themedir = $(datadir)/xfwm4/themes/defcon-IV
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \
