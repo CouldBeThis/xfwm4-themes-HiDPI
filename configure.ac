@@ -78,6 +78,7 @@ themes/silverado/Makefile
 themes/slick/Makefile
 themes/slimline/Makefile
 themes/smallscreen/Makefile
+themes/smoothwall/Makefile
 themes/tabs/Makefile
 themes/tgc/Makefile
 themes/tgc-large/Makefile
