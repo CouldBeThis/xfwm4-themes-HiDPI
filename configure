@@ -1470,7 +1470,7 @@ fi
 
 # Define the identity of the package.
  PACKAGE=xfwm4-themes
- VERSION=1.0.0
+ VERSION=3.90.0
 
 
 cat >>confdefs.h <<_ACEOF
