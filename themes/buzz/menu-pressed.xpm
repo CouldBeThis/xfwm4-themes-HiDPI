@@ -1,6 +1,6 @@
 /* XPM */
 static char * menu_pressed_xpm[] = {
-"10 12 54 1",
+"10 22 54 1",
 " 	c None",
 ".	c #000000",
 "+	c #D0D0D0",
@@ -55,6 +55,11 @@ static char * menu_pressed_xpm[] = {
 "m	c #C4C4C2",
 "n	c #C2C2C0",
 "o	c #C0C0BB",
+"          ",
+"          ",
+"          ",
+"          ",
+"          ",
 "........  ",
 ".++++@#$. ",
 ".%%%%&*=-.",
@@ -66,4 +71,9 @@ static char * menu_pressed_xpm[] = {
 ".b7c89def.",
 "./g4heifj.",
 ".gfklmnoo.",
-".........."};
+"..........",
+"          ",
+"          ",
+"          ",
+"          ",
+"          "};
