@@ -27,6 +27,7 @@ themes/coldsteel/Makefile
 themes/coolclean/Makefile
 themes/crux/Makefile
 themes/cruxish/Makefile
+themes/defcon-IV/Makefile
 themes/eazel-blue/Makefile
 themes/elberg/Makefile
 themes/fbx/Makefile

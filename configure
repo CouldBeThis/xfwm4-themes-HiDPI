@@ -271,7 +271,7 @@ PACKAGE_STRING=
 PACKAGE_BUGREPORT=
 
 ac_unique_file="configure"
-ac_subst_vars='SHELL PATH_SEPARATOR PACKAGE_NAME PACKAGE_TARNAME PACKAGE_VERSION PACKAGE_STRING PACKAGE_BUGREPORT exec_prefix prefix program_transform_name bindir sbindir libexecdir datadir sysconfdir sharedstatedir localstatedir libdir includedir oldincludedir infodir mandir build_alias host_alias target_alias DEFS ECHO_C ECHO_N ECHO_T LIBS INSTALL_PROGRAM INSTALL_SCRIPT INSTALL_DATA CYGPATH_W PACKAGE VERSION ACLOCAL AUTOCONF AUTOMAKE AUTOHEADER MAKEINFO AMTAR install_sh STRIP ac_ct_STRIP INSTALL_STRIP_PROGRAM AWK SET_MAKE am__leading_dot MAINTAINER_MODE_TRUE MAINTAINER_MODE_FALSE MAINT LIBOBJS LTLIBOBJS'
+ac_subst_vars='SHELL PATH_SEPARATOR PACKAGE_NAME PACKAGE_TARNAME PACKAGE_VERSION PACKAGE_STRING PACKAGE_BUGREPORT exec_prefix prefix program_transform_name bindir sbindir libexecdir datadir sysconfdir sharedstatedir localstatedir libdir includedir oldincludedir infodir mandir build_alias host_alias target_alias DEFS ECHO_C ECHO_N ECHO_T LIBS INSTALL_PROGRAM INSTALL_SCRIPT INSTALL_DATA PACKAGE VERSION ACLOCAL AUTOCONF AUTOMAKE AUTOHEADER MAKEINFO AMTAR install_sh STRIP ac_ct_STRIP INSTALL_STRIP_PROGRAM AWK SET_MAKE MAINTAINER_MODE_TRUE MAINTAINER_MODE_FALSE MAINT LIBOBJS LTLIBOBJS'
 ac_subst_files=''
 
 # Initialize some variables set by options.
@@ -1194,10 +1194,14 @@ ac_compiler_gnu=$ac_cv_c_compiler_gnu
 
 
 
+# Add the stamp file to the list of files AC keeps track of,
+# along with our hook.
           ac_config_headers="$ac_config_headers config.h"
 
 
-am__api_version="1.7"
+
+
+am__api_version="1.6"
 ac_aux_dir=
 for ac_dir in $srcdir $srcdir/.. $srcdir/../..; do
   if test -f $ac_dir/install-sh; then
@@ -1441,15 +1445,6 @@ echo "${ECHO_T}no" >&6
   SET_MAKE="MAKE=${MAKE-make}"
 fi
 
-rm -rf .tst 2>/dev/null
-mkdir .tst 2>/dev/null
-if test -d .tst; then
-  am__leading_dot=.
-else
-  am__leading_dot=_
-fi
-rmdir .tst 2>/dev/null
-
  # test to see if srcdir already configured
 if test "`cd $srcdir && pwd`" != "`pwd`" &&
    test -f $srcdir/config.status; then
@@ -1457,16 +1452,6 @@ if test "`cd $srcdir && pwd`" != "`pwd`" &&
 echo "$as_me: error: source directory already configured; run \"make distclean\" there first" >&2;}
    { (exit 1); exit 1; }; }
 fi
-
-# test whether we have cygpath
-if test -z "$CYGPATH_W"; then
-  if (cygpath --version) >/dev/null 2>/dev/null; then
-    CYGPATH_W='cygpath -w'
-  else
-    CYGPATH_W=echo
-  fi
-fi
-
 
 # Define the identity of the package.
  PACKAGE=xfwm4-themes
@@ -1700,7 +1685,7 @@ test -z "$INSTALL_SCRIPT" && INSTALL_SCRIPT='${INSTALL}'
 test -z "$INSTALL_DATA" && INSTALL_DATA='${INSTALL} -m 644'
 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ac_config_files="$ac_config_files xfwm4-themes.spec Makefile themes/Makefile themes/adept/Makefile themes/agua/Makefile themes/atlanta/Makefile themes/atlanta2/Makefile themes/b5/Makefile themes/b6/Makefile themes/beastie/Makefile themes/biz/Makefile themes/coldsteel/Makefile themes/coolclean/Makefile themes/crux/Makefile themes/cruxish/Makefile themes/eazel-blue/Makefile themes/elberg/Makefile themes/fbx/Makefile themes/g2/Makefile themes/galaxy/Makefile themes/gaudy/Makefile themes/gnububble/Makefile themes/gorilla/Makefile themes/gtk/Makefile themes/iceg/Makefile themes/kde/Makefile themes/keramik/Makefile themes/kindaker/Makefile themes/koynacity/Makefile themes/linea/Makefile themes/metabox/Makefile themes/microgui/Makefile themes/mofit/Makefile themes/next/Makefile themes/ops/Makefile themes/oroborus/Makefile themes/perl/Makefile themes/pills/Makefile themes/piranha/Makefile themes/platinum/Makefile themes/quiet-purple/Makefile themes/quinx/Makefile themes/r9x/Makefile themes/redmond/Makefile themes/redmondxp/Makefile themes/retro/Makefile themes/silverado/Makefile themes/slick/Makefile themes/slimline/Makefile themes/tabs/Makefile themes/today/Makefile themes/totem/Makefile themes/trench/Makefile themes/triviality/Makefile themes/tux/Makefile themes/variation/Makefile themes/xfce/Makefile"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ac_config_files="$ac_config_files xfwm4-themes.spec Makefile themes/Makefile themes/adept/Makefile themes/agua/Makefile themes/atlanta/Makefile themes/atlanta2/Makefile themes/b5/Makefile themes/b6/Makefile themes/beastie/Makefile themes/biz/Makefile themes/coldsteel/Makefile themes/coolclean/Makefile themes/crux/Makefile themes/cruxish/Makefile themes/defcon-IV/Makefile themes/eazel-blue/Makefile themes/elberg/Makefile themes/fbx/Makefile themes/g2/Makefile themes/galaxy/Makefile themes/gaudy/Makefile themes/gnububble/Makefile themes/gorilla/Makefile themes/gtk/Makefile themes/iceg/Makefile themes/kde/Makefile themes/keramik/Makefile themes/kindaker/Makefile themes/koynacity/Makefile themes/linea/Makefile themes/metabox/Makefile themes/microgui/Makefile themes/mofit/Makefile themes/next/Makefile themes/ops/Makefile themes/oroborus/Makefile themes/perl/Makefile themes/pills/Makefile themes/piranha/Makefile themes/platinum/Makefile themes/quiet-purple/Makefile themes/quinx/Makefile themes/r9x/Makefile themes/redmond/Makefile themes/redmondxp/Makefile themes/retro/Makefile themes/silverado/Makefile themes/slick/Makefile themes/slimline/Makefile themes/tabs/Makefile themes/today/Makefile themes/totem/Makefile themes/trench/Makefile themes/triviality/Makefile themes/tux/Makefile themes/variation/Makefile themes/xfce/Makefile"
 cat >confcache <<\_ACEOF
 # This file is a shell script that caches the results of configure
 # tests run on this system so they can be shared between configure
@@ -2247,6 +2232,7 @@ do
   "themes/coolclean/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/coolclean/Makefile" ;;
   "themes/crux/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/crux/Makefile" ;;
   "themes/cruxish/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/cruxish/Makefile" ;;
+  "themes/defcon-IV/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/defcon-IV/Makefile" ;;
   "themes/eazel-blue/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/eazel-blue/Makefile" ;;
   "themes/elberg/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/elberg/Makefile" ;;
   "themes/fbx/Makefile" ) CONFIG_FILES="$CONFIG_FILES themes/fbx/Makefile" ;;
@@ -2377,7 +2363,6 @@ s,@LIBS@,$LIBS,;t t
 s,@INSTALL_PROGRAM@,$INSTALL_PROGRAM,;t t
 s,@INSTALL_SCRIPT@,$INSTALL_SCRIPT,;t t
 s,@INSTALL_DATA@,$INSTALL_DATA,;t t
-s,@CYGPATH_W@,$CYGPATH_W,;t t
 s,@PACKAGE@,$PACKAGE,;t t
 s,@VERSION@,$VERSION,;t t
 s,@ACLOCAL@,$ACLOCAL,;t t
@@ -2392,7 +2377,6 @@ s,@ac_ct_STRIP@,$ac_ct_STRIP,;t t
 s,@INSTALL_STRIP_PROGRAM@,$INSTALL_STRIP_PROGRAM,;t t
 s,@AWK@,$AWK,;t t
 s,@SET_MAKE@,$SET_MAKE,;t t
-s,@am__leading_dot@,$am__leading_dot,;t t
 s,@MAINTAINER_MODE_TRUE@,$MAINTAINER_MODE_TRUE,;t t
 s,@MAINTAINER_MODE_FALSE@,$MAINTAINER_MODE_FALSE,;t t
 s,@MAINT@,$MAINT,;t t
@@ -2823,28 +2807,12 @@ echo "$as_me: error: cannot create directory \"$ac_dir\"" >&2;}
     cat $tmp/config.h
     rm -f $tmp/config.h
   fi
-# Compute $ac_file's index in $config_headers.
-_am_stamp_count=1
-for _am_header in $config_headers :; do
-  case $_am_header in
-    $ac_file | $ac_file:* )
-      break ;;
-    * )
-      _am_stamp_count=`expr $_am_stamp_count + 1` ;;
+  # Run the commands associated with the file.
+  case $ac_file in
+    config.h ) # update the timestamp
+echo 'timestamp for config.h' >"./stamp-h1"
+ ;;
   esac
-done
-echo "timestamp for $ac_file" >`(dirname $ac_file) 2>/dev/null ||
-$as_expr X$ac_file : 'X\(.*[^/]\)//*[^/][^/]*/*$' \| \
-         X$ac_file : 'X\(//\)[^/]' \| \
-         X$ac_file : 'X\(//\)$' \| \
-         X$ac_file : 'X\(/\)' \| \
-         .     : '\(.\)' 2>/dev/null ||
-echo X$ac_file |
-    sed '/^X\(.*[^/]\)\/\/*[^/][^/]*\/*$/{ s//\1/; q; }
-  	  /^X\(\/\/\)[^/].*/{ s//\1/; q; }
-  	  /^X\(\/\/\)$/{ s//\1/; q; }
-  	  /^X\(\/\).*/{ s//\1/; q; }
-  	  s/.*/./; q'`/stamp-h$_am_stamp_count
 done
 _ACEOF
 
