@@ -15,7 +15,7 @@ SUBDIRS =								\
 	crux								\
 	cruxish								\
 	eazel-blue							\
-	defcon-IV                                                       \
+	defcon-IV							\
 	elberg								\
 	fbx								\
 	g2								\
