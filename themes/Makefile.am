@@ -67,6 +67,7 @@ SUBDIRS =								\
 	slimline							\
 	smallscreen							\
 	smoothwall							\
+	synthetic							\
 	tabs								\
 	tgc								\
 	tgc-large							\
