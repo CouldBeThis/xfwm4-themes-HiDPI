@@ -1,6 +1,6 @@
 /* XPM */
 static char * menu_active_xpm[] = {
-"16 20 4 1",
+"16 26 4 1",
 " 	c None",
 ".	c #000000 s active_border_color",
 "+	c #085D8B s active_color_1",
@@ -11,6 +11,9 @@ static char * menu_active_xpm[] = {
 "                ",
 "                ",
 "                ",
+"                ",
+"                ",
+"                ",
 "  ............  ",
 "  .++++++++++.  ",
 "  .++++++++++.  ",
@@ -22,6 +25,9 @@ static char * menu_active_xpm[] = {
 "  .@@@@@@@@@@.  ",
 "  .@@@@@@@@@@.  ",
 "  ............  ",
+"                ",
+"                ",
+"                ",
 "                ",
 "                ",
 "                "};
