@@ -106,8 +106,11 @@ theme_DATA = README \
 	left-active.xpm \
 	left-inactive.xpm \
 	maximize-active.xpm \
+	maximize-toggled-active.xpm \
 	maximize-inactive.xpm \
+	maximize-toggled-inactive.xpm \
 	maximize-pressed.xpm \
+	maximize-toggled-pressed.xpm \
 	menu-active.xpm \
 	menu-inactive.xpm \
 	menu-pressed.xpm \
