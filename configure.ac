@@ -25,6 +25,7 @@ themes/b5/Makefile
 themes/b6/Makefile
 themes/beastie/Makefile
 themes/biz/Makefile
+themes/buzz/Makefile
 themes/coldsteel/Makefile
 themes/coolclean/Makefile
 themes/crux/Makefile

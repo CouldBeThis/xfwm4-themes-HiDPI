@@ -104,6 +104,7 @@ SUBDIRS = \
 	b6								\
 	beastie								\
 	biz								\
+	buzz								\
 	coldsteel							\
 	coolclean							\
 	crux								\
