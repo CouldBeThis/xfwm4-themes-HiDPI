@@ -42,7 +42,7 @@ SUBDIRS =								\
 	koynacity							\
 	linea								\
 	lineart								\
-	meenee 							        \
+	meenee 								\
 	metabox								\
 	microcurve 							\
 	microdeck 							\
@@ -64,7 +64,6 @@ SUBDIRS =								\
 	redmond								\
 	redmondxp							\
 	retro								\
-	savage								\
 	silverado							\
 	slick								\
 	slimline							\

@@ -77,7 +77,6 @@ themes/r9x/Makefile
 themes/redmond/Makefile
 themes/redmondxp/Makefile
 themes/retro/Makefile
-themes/savage/Makefile
 themes/silverado/Makefile
 themes/slick/Makefile
 themes/slimline/Makefile
