@@ -1,3 +1,172 @@
+2003-09-22 00:43  xfce
+
+	* configure, configure.ac: Update version number to 4.0.0
+
+2003-09-19 19:07  xfce
+
+	* themes/buzz/: bottom-inactive.xpm, bottom-left-inactive.xpm,
+	bottom-right-inactive.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, left-inactive.xpm, maximize-active.xpm,
+	maximize-inactive.xpm, maximize-pressed.xpm, right-inactive.xpm,
+	title-1-inactive.xpm, title-2-inactive.xpm, title-3-inactive.xpm,
+	title-4-inactive.xpm, title-5-inactive.xpm, top-left-inactive.xpm,
+	top-right-inactive.xpm: Change inactive frames
+
+2003-09-18 23:15  xfce
+
+	* themes/linea/bottom-left-active.xpm: [no log message]
+
+2003-09-18 23:08  xfce
+
+	* themes/buzz/: close-active.xpm, close-inactive.xpm,
+	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
+	maximize-pressed.xpm, maximize-toggled-active.xpm,
+	maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm,
+	menu-active.xpm, menu-inactive.xpm, menu-pressed.xpm,
+	shade-active.xpm, shade-inactive.xpm, shade-pressed.xpm,
+	shade-toggled-active.xpm, shade-toggled-inactive.xpm,
+	shade-toggled-pressed.xpm, stick-active.xpm, stick-inactive.xpm,
+	stick-pressed.xpm, stick-toggled-active.xpm,
+	stick-toggled-inactive.xpm, stick-toggled-pressed.xpm, themerc,
+	title-1-active.xpm, title-1-inactive.xpm, title-2-active.xpm,
+	title-2-inactive.xpm, title-3-active.xpm, title-3-inactive.xpm,
+	title-4-active.xpm, title-4-inactive.xpm, title-5-active.xpm,
+	title-5-inactive.xpm, top-left-active.xpm, top-left-inactive.xpm,
+	top-right-active.xpm, top-right-inactive.xpm: Some more changes
+
+2003-09-18 22:19  xfce
+
+	* themes/buzz/: close-active.xpm, close-pressed.xpm,
+	hide-active.xpm, hide-pressed.xpm, maximize-active.xpm,
+	maximize-pressed.xpm, maximize-toggled-active.xpm,
+	maximize-toggled-pressed.xpm, menu-active.xpm, menu-inactive.xpm,
+	menu-pressed.xpm, shade-active.xpm, shade-pressed.xpm,
+	shade-toggled-active.xpm, shade-toggled-pressed.xpm,
+	stick-active.xpm, stick-pressed.xpm, stick-toggled-active.xpm,
+	stick-toggled-pressed.xpm, themerc, title-1-active.xpm,
+	title-2-active.xpm, title-3-active.xpm, title-4-active.xpm,
+	title-5-active.xpm, top-left-active.xpm, top-left-inactive.xpm,
+	top-right-active.xpm, top-right-inactive.xpm: Change colors,
+	pixmaps, buttons, shadows, etc.
+
+2003-09-17 22:43  xfce
+
+	* themes/buzz/: close-active.xpm, close-inactive.xpm,
+	close-pressed.xpm, hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, maximize-active.xpm, maximize-inactive.xpm,
+	maximize-pressed.xpm, maximize-toggled-active.xpm,
+	maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm,
+	menu-active.xpm, menu-inactive.xpm, menu-pressed.xpm,
+	shade-active.xpm, shade-inactive.xpm, shade-pressed.xpm,
+	shade-toggled-active.xpm, shade-toggled-inactive.xpm,
+	shade-toggled-pressed.xpm, stick-active.xpm, stick-inactive.xpm,
+	stick-pressed.xpm, stick-toggled-active.xpm,
+	stick-toggled-inactive.xpm, stick-toggled-pressed.xpm,
+	title-1-active.xpm, title-1-inactive.xpm, title-2-active.xpm,
+	title-2-inactive.xpm, title-3-active.xpm, title-3-inactive.xpm,
+	title-4-active.xpm, title-4-inactive.xpm, title-5-active.xpm,
+	title-5-inactive.xpm, top-left-active.xpm, top-left-inactive.xpm,
+	top-right-active.xpm, top-right-inactive.xpm, themerc: [no log
+	message]
+
+2003-09-17 22:33  xfce
+
+	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
+	themes/buzz/Makefile.am, themes/buzz/Makefile.in,
+	themes/buzz/README, themes/buzz/bottom-active.xpm,
+	themes/buzz/bottom-inactive.xpm,
+	themes/buzz/bottom-left-active.xpm,
+	themes/buzz/bottom-left-inactive.xpm,
+	themes/buzz/bottom-right-active.xpm,
+	themes/buzz/bottom-right-inactive.xpm,
+	themes/buzz/close-active.xpm, themes/buzz/close-inactive.xpm,
+	themes/buzz/close-pressed.xpm, themes/buzz/hide-active.xpm,
+	themes/buzz/hide-inactive.xpm, themes/buzz/hide-pressed.xpm,
+	themes/buzz/left-active.xpm, themes/buzz/left-inactive.xpm,
+	themes/buzz/maximize-active.xpm, themes/buzz/maximize-inactive.xpm,
+	themes/buzz/maximize-pressed.xpm,
+	themes/buzz/maximize-toggled-active.xpm,
+	themes/buzz/maximize-toggled-inactive.xpm,
+	themes/buzz/maximize-toggled-pressed.xpm,
+	themes/buzz/menu-active.xpm, themes/buzz/menu-inactive.xpm,
+	themes/buzz/menu-pressed.xpm, themes/buzz/right-active.xpm,
+	themes/buzz/right-inactive.xpm, themes/buzz/shade-active.xpm,
+	themes/buzz/shade-inactive.xpm, themes/buzz/shade-pressed.xpm,
+	themes/buzz/shade-toggled-active.xpm,
+	themes/buzz/shade-toggled-inactive.xpm,
+	themes/buzz/shade-toggled-pressed.xpm,
+	themes/buzz/stick-active.xpm, themes/buzz/stick-inactive.xpm,
+	themes/buzz/stick-pressed.xpm,
+	themes/buzz/stick-toggled-active.xpm,
+	themes/buzz/stick-toggled-inactive.xpm,
+	themes/buzz/stick-toggled-pressed.xpm, themes/buzz/themerc,
+	themes/buzz/title-1-active.xpm, themes/buzz/title-1-inactive.xpm,
+	themes/buzz/title-2-active.xpm, themes/buzz/title-2-inactive.xpm,
+	themes/buzz/title-3-active.xpm, themes/buzz/title-3-inactive.xpm,
+	themes/buzz/title-4-active.xpm, themes/buzz/title-4-inactive.xpm,
+	themes/buzz/title-5-active.xpm, themes/buzz/title-5-inactive.xpm,
+	themes/buzz/top-left-active.xpm, themes/buzz/top-left-inactive.xpm,
+	themes/buzz/top-right-active.xpm,
+	themes/buzz/top-right-inactive.xpm: Add "buzz" theme
+
+2003-09-16 00:30  xfce
+
+	* themes/redmondxp/: hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm: [no log message]
+
+2003-09-16 00:11  xfce
+
+	* themes/redmondxp/: Makefile.am, Makefile.in,
+	maximize-toggled-active.xpm, maximize-toggled-inactive.xpm,
+	maximize-toggled-pressed.xpm, menu-active.xpm, menu-inactive.xpm,
+	menu-pressed.xpm, themerc: Improve redmondxp theme
+
+2003-09-15 20:44  xfce
+
+	* themes/redmond/: maximize-active.xpm, maximize-inactive.xpm,
+	maximize-pressed.xpm, maximize-toggled-active.xpm,
+	maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm: Change
+	buttons
+
+2003-09-15 18:54  xfce
+
+	* themes/redmond/: hide-active.xpm, hide-inactive.xpm,
+	hide-pressed.xpm, maximize-toggled-active.xpm,
+	maximize-toggled-inactive.xpm, maximize-toggled-pressed.xpm:
+	Slightly change hide and maximized-toggled buttons
+
+2003-09-13 11:43  xfce
+
+	* themes/redmond/: menu-active.xpm, menu-inactive.xpm,
+	menu-pressed.xpm: Change icon button
+
+2003-09-13 00:45  xfce
+
+	* themes/: defcon-IV/themerc, mofit/bottom-inactive.xpm,
+	mofit/bottom-left-inactive.xpm, mofit/bottom-right-inactive.xpm,
+	mofit/close-inactive.xpm, mofit/hide-inactive.xpm,
+	mofit/left-inactive.xpm, mofit/maximize-inactive.xpm,
+	mofit/maximize-toggled-inactive.xpm, mofit/menu-inactive.xpm,
+	mofit/right-inactive.xpm, mofit/shade-inactive.xpm,
+	mofit/stick-inactive.xpm, mofit/title-1-inactive.xpm,
+	mofit/title-2-inactive.xpm, mofit/title-3-inactive.xpm,
+	mofit/title-4-inactive.xpm, mofit/title-5-inactive.xpm,
+	mofit/top-left-inactive.xpm, mofit/top-right-inactive.xpm,
+	redmond/Makefile.am, redmond/Makefile.in, redmond/close-active.xpm,
+	redmond/close-inactive.xpm, redmond/close-pressed.xpm,
+	redmond/hide-active.xpm, redmond/hide-inactive.xpm,
+	redmond/hide-pressed.xpm, redmond/maximize-active.xpm,
+	redmond/maximize-inactive.xpm, redmond/maximize-pressed.xpm,
+	redmond/maximize-toggled-active.xpm,
+	redmond/maximize-toggled-inactive.xpm,
+	redmond/maximize-toggled-pressed.xpm, redmond/menu-active.xpm,
+	redmond/menu-inactive.xpm, redmond/menu-pressed.xpm: Theme updates
+
+2003-09-10 09:57  huysmans
+
+	* ChangeLog: Update ChangeLogs
+
 2003-09-10 09:49  huysmans
 
 	* configure, configure.ac: Update version numbers and po files for
