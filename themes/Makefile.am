@@ -10,6 +10,7 @@ SUBDIRS =								\
 	atlanta2							\
 	b5								\
 	b6								\
+	basix								\
 	bbs								\
 	beastie								\
 	biz								\

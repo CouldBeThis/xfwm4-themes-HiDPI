@@ -4,7 +4,7 @@ AC_INIT([configure])
 
 AM_CONFIG_HEADER(config.h)
 
-AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.90])
+AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.91])
 
 AM_MAINTAINER_MODE
 
@@ -23,6 +23,7 @@ themes/atlanta/Makefile
 themes/atlanta2/Makefile
 themes/b5/Makefile
 themes/b6/Makefile
+themes/basix/Makefile
 themes/bbs/Makefile
 themes/beastie/Makefile
 themes/biz/Makefile
