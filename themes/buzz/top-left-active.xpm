@@ -1,13 +1,14 @@
 /* XPM */
 static char * top_left_active_xpm[] = {
-"8 21 7 1",
+"8 21 8 1",
 " 	c None",
-".	c #606060 s active_shadow_2",
+".	c #606060 s active_shadow_1",
 "+	c #FFFF50 s active_hilight_1",
 "@	c #FFCB00 s active_color_1",
 "#	c #FFFFFF s active_hilight_2",
 "$	c #D8D8D8 s active_color_2",
 "%	c #888888 s active_mid_2",
+"=	c #606060 s active_shadow_2",
 "........",
 ".+++++++",
 ".+@@@@@@",
@@ -28,4 +29,4 @@ static char * top_left_active_xpm[] = {
 ".+@@@@@@",
 ".+@@@@@@",
 ".+@@@@@@",
-".#$%%%%%"};
+"=#%%%%%%"};
