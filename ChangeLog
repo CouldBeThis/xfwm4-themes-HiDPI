@@ -1,3 +1,12 @@
+2003-07-19 11:08  huysmans
+
+	* configure, configure.ac: Update version numbers and po files for
+	release
+
+2003-07-13 10:43  huysmans
+
+	* ChangeLog: Update ChangeLogs for release
+
 2003-07-11 09:34  huysmans
 
 	* ChangeLog: Update ChangeLog's for release
