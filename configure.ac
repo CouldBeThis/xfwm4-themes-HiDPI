@@ -26,6 +26,7 @@ themes/b6/Makefile
 themes/bbs/Makefile
 themes/beastie/Makefile
 themes/biz/Makefile
+themes/blackwall/Makefile
 themes/buzz/Makefile
 themes/coldsteel/Makefile
 themes/coolclean/Makefile

@@ -13,6 +13,7 @@ SUBDIRS =								\
 	bbs								\
 	beastie								\
 	biz								\
+	blackwall								\
 	buzz								\
 	coldsteel							\
 	coolclean							\
