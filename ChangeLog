@@ -1,3 +1,16 @@
+2003-07-30 10:15  huysmans
+
+	* configure, configure.ac: Update version numbers and po files for
+	release
+
+2003-07-29 07:56  huysmans
+
+	* Makefile.am, Makefile.in: Remove cache dir on distclean
+
+2003-07-19 11:30  huysmans
+
+	* ChangeLog: Update ChangeLogs
+
 2003-07-19 11:08  huysmans
 
 	* configure, configure.ac: Update version numbers and po files for
