@@ -11,14 +11,6 @@ AM_MAINTAINER_MODE
 dnl Check for basic programs
 AC_PROG_INSTALL
 
-dnl
-dnl Check for pax.
-dnl
-AC_PATH_PROG([PAX], [pax])
-if test -z "$PAX"; then
-  AC_MSG_ERROR([pax (the POSIX standard archive tool) is not found on your system, you can get a version from ftp://ftp.suse.com/pub/people/kukuk/pax/])
-fi
-
 AC_OUTPUT([
 xfwm4-themes.spec
 Makefile

@@ -35,8 +35,3 @@ theme_DATA = README \
 	top-right-active.xpm \
 	top-right-inactive.xpm
 EXTRA_DIST = $(theme_DATA)
-
-install-themeDATA:
-	rm -Rf $(DESTDIR)$(themedir); 					\
-	$(mkinstalldirs) $(DESTDIR)$(themedir); 			\
-	pax -rw $(theme_DATA) $(DESTDIR)$(themedir)
