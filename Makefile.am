@@ -1,5 +1,8 @@
 @SET_MAKE@
 
+EXTRA_DIST =								\
+	xfwm4-themes.spec
+
 SUBDIRS = themes
 
 rpm: dist

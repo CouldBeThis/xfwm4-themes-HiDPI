@@ -90,6 +90,10 @@ sharedstatedir = @sharedstatedir@
 sysconfdir = @sysconfdir@
 target_alias = @target_alias@
 
+EXTRA_DIST = \
+	xfwm4-themes.spec
+
+
 SUBDIRS = themes
 subdir = .
 ACLOCAL_M4 = $(top_srcdir)/aclocal.m4
