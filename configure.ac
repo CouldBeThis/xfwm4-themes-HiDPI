@@ -4,7 +4,7 @@ AC_INIT([configure])
 
 AM_CONFIG_HEADER(config.h)
 
-AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.99.2])
+AM_INIT_AUTOMAKE([xfwm4-themes], [4.1.99.3])
 
 AM_MAINTAINER_MODE
 
