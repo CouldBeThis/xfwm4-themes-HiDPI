@@ -1,3 +1,122 @@
+2003-09-10 09:49  huysmans
+
+	* configure, configure.ac: Update version numbers and po files for
+	release
+
+2003-09-09 22:04  xfce
+
+	* themes/gaudy/: title-3-active.xpm, title-3-inactive.xpm: Change
+	hilight/shadow in gaudy title
+
+2003-09-04 21:51  xfce
+
+	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
+	themes/agualemon/Makefile.am, themes/agualemon/Makefile.in,
+	themes/agualemon/README, themes/agualemon/bottom-active.xpm,
+	themes/agualemon/bottom-inactive.xpm,
+	themes/agualemon/bottom-left-active.xpm,
+	themes/agualemon/bottom-left-inactive.xpm,
+	themes/agualemon/bottom-right-active.xpm,
+	themes/agualemon/bottom-right-inactive.xpm,
+	themes/agualemon/close-active.xpm,
+	themes/agualemon/close-inactive.xpm,
+	themes/agualemon/close-pressed.xpm,
+	themes/agualemon/hide-active.xpm,
+	themes/agualemon/hide-inactive.xpm,
+	themes/agualemon/hide-pressed.xpm,
+	themes/agualemon/left-active.xpm,
+	themes/agualemon/left-inactive.xpm,
+	themes/agualemon/maximize-active.xpm,
+	themes/agualemon/maximize-inactive.xpm,
+	themes/agualemon/maximize-pressed.xpm,
+	themes/agualemon/menu-active.xpm,
+	themes/agualemon/menu-inactive.xpm,
+	themes/agualemon/menu-pressed.xpm,
+	themes/agualemon/right-active.xpm,
+	themes/agualemon/right-inactive.xpm,
+	themes/agualemon/shade-active.xpm,
+	themes/agualemon/shade-inactive.xpm,
+	themes/agualemon/shade-pressed.xpm,
+	themes/agualemon/stick-active.xpm,
+	themes/agualemon/stick-inactive.xpm,
+	themes/agualemon/stick-pressed.xpm, themes/agualemon/themerc,
+	themes/agualemon/title-1-active.xpm,
+	themes/agualemon/title-1-inactive.xpm,
+	themes/agualemon/title-2-active.xpm,
+	themes/agualemon/title-2-inactive.xpm,
+	themes/agualemon/title-3-active.xpm,
+	themes/agualemon/title-3-inactive.xpm,
+	themes/agualemon/title-4-active.xpm,
+	themes/agualemon/title-4-inactive.xpm,
+	themes/agualemon/title-5-active.xpm,
+	themes/agualemon/title-5-inactive.xpm,
+	themes/agualemon/top-left-active.xpm,
+	themes/agualemon/top-left-inactive.xpm,
+	themes/agualemon/top-right-active.xpm,
+	themes/agualemon/top-right-inactive.xpm: Add agualemon theme from
+	Fuzzbox
+
+2003-09-03 19:00  xfce
+
+	* themes/kde1/: bottom-left-active.xpm, bottom-left-inactive.xpm,
+	close-pressed.xpm, hide-pressed.xpm, left-active.xpm,
+	left-inactive.xpm, maximize-pressed.xpm,
+	maximize-toggled-pressed.xpm, menu-pressed.xpm, stick-pressed.xpm,
+	stick-toggled-pressed.xpm, title-1-active.xpm,
+	title-1-inactive.xpm, title-2-active.xpm, title-2-inactive.xpm,
+	title-3-active.xpm, title-3-inactive.xpm, title-4-active.xpm,
+	title-4-inactive.xpm, title-5-active.xpm, title-5-inactive.xpm,
+	top-left-active.xpm, top-left-inactive.xpm, top-right-active.xpm,
+	top-right-inactive.xpm: Fix small remaining issues with kde1 theme
+
+2003-09-03 08:14  xfce
+
+	* themes/kde1/stick-pressed.xpm: Fix offset on pressed button
+
+2003-09-02 23:54  xfce
+
+	* themes/kde1/: title-2-inactive.xpm, title-3-inactive.xpm,
+	title-4-inactive.xpm: Fic color on inactive titlebar
+
+2003-09-02 23:26  xfce
+
+	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
+	themes/kde1/Makefile.am, themes/kde1/Makefile.in,
+	themes/kde1/README, themes/kde1/bottom-active.xpm,
+	themes/kde1/bottom-inactive.xpm,
+	themes/kde1/bottom-left-active.xpm,
+	themes/kde1/bottom-left-inactive.xpm,
+	themes/kde1/bottom-right-active.xpm,
+	themes/kde1/bottom-right-inactive.xpm,
+	themes/kde1/close-active.xpm, themes/kde1/close-inactive.xpm,
+	themes/kde1/close-pressed.xpm, themes/kde1/hide-active.xpm,
+	themes/kde1/hide-inactive.xpm, themes/kde1/hide-pressed.xpm,
+	themes/kde1/left-active.xpm, themes/kde1/left-inactive.xpm,
+	themes/kde1/maximize-active.xpm, themes/kde1/maximize-inactive.xpm,
+	themes/kde1/maximize-pressed.xpm,
+	themes/kde1/maximize-toggled-active.xpm,
+	themes/kde1/maximize-toggled-inactive.xpm,
+	themes/kde1/maximize-toggled-pressed.xpm,
+	themes/kde1/menu-active.xpm, themes/kde1/menu-inactive.xpm,
+	themes/kde1/menu-pressed.xpm, themes/kde1/right-active.xpm,
+	themes/kde1/right-inactive.xpm, themes/kde1/stick-active.xpm,
+	themes/kde1/stick-inactive.xpm, themes/kde1/stick-pressed.xpm,
+	themes/kde1/stick-toggled-active.xpm,
+	themes/kde1/stick-toggled-inactive.xpm,
+	themes/kde1/stick-toggled-pressed.xpm, themes/kde1/themerc,
+	themes/kde1/title-1-active.xpm, themes/kde1/title-1-inactive.xpm,
+	themes/kde1/title-2-active.xpm, themes/kde1/title-2-inactive.xpm,
+	themes/kde1/title-3-active.xpm, themes/kde1/title-3-inactive.xpm,
+	themes/kde1/title-4-active.xpm, themes/kde1/title-4-inactive.xpm,
+	themes/kde1/title-5-active.xpm, themes/kde1/title-5-inactive.xpm,
+	themes/kde1/top-left-active.xpm, themes/kde1/top-left-inactive.xpm,
+	themes/kde1/top-right-active.xpm,
+	themes/kde1/top-right-inactive.xpm: Add kde1 theme
+
+2003-08-26 09:38  huysmans
+
+	* ChangeLog: Update changelogs
+
 2003-08-25 22:22  xfce
 
 	* themes/smallscreen/: bottom-left-active.xpm,
