@@ -42,6 +42,7 @@ themes/iceg/Makefile
 themes/kde/Makefile
 themes/keramik/Makefile
 themes/kindaker/Makefile
+themes/kleanux/Makefile
 themes/koynacity/Makefile
 themes/linea/Makefile
 themes/metabox/Makefile

@@ -29,6 +29,7 @@ SUBDIRS =								\
 	kde								\
 	keramik								\
 	kindaker							\
+	kleanux								\
 	koynacity							\
 	linea								\
 	metabox								\
