@@ -1,4 +1,4 @@
-themedir = $(datadir)/xfwm4/themes/mofit
+themedir = $(datadir)/xfwm4/themes/today
 theme_DATA = README \
 	bottom-active.xpm \
 	bottom-inactive.xpm \
@@ -25,12 +25,6 @@ theme_DATA = README \
 	menu-pressed.xpm \
 	right-active.xpm \
 	right-inactive.xpm \
-	shade-active.xpm \
-	shade-inactive.xpm \
-	shade-pressed.xpm \
-	stick-active.xpm \
-	stick-inactive.xpm \
-	stick-pressed.xpm \
 	themerc \
 	title-1-active.xpm \
 	title-1-inactive.xpm \

@@ -49,6 +49,7 @@ SUBDIRS =								\
 	slick								\
 	slimline							\
 	tabs								\
+	today								\
 	totem								\
 	trench								\
 	triviality							\

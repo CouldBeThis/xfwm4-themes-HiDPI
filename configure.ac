@@ -62,6 +62,7 @@ themes/silverado/Makefile
 themes/slick/Makefile
 themes/slimline/Makefile
 themes/tabs/Makefile
+themes/today/Makefile
 themes/totem/Makefile
 themes/trench/Makefile
 themes/triviality/Makefile
