@@ -30,4 +30,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(-,root,root)
 %doc README INSTALL TODO COPYING AUTHORS
-%{_datadir}/xfwm4/themes
+%{_datadir}/themes
