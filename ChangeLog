@@ -1,3 +1,12 @@
+2004-10-02 12:30  olivier
+
+	* themes/: b5/themerc, b6/themerc, beastie/themerc, r9x/themerc,
+	  tux/themerc: Add delta for shadow size/position on some themes
+
+2004-09-21 00:22  olivier
+
+	* ChangeLog: Update all ChangeLogs
+
 2004-09-07 23:44  olivier
 
 	* configure, configure.ac, themes/Makefile.am, themes/Makefile.in,
