@@ -13,7 +13,7 @@ SUBDIRS =								\
 	bbs								\
 	beastie								\
 	biz								\
-	blackwall								\
+	blackwall							\
 	buzz								\
 	coldsteel							\
 	coolclean							\
@@ -63,11 +63,13 @@ SUBDIRS =								\
 	redmond								\
 	redmondxp							\
 	retro								\
+	savage								\
 	silverado							\
 	slick								\
 	slimline							\
 	smallscreen							\
 	smoothwall							\
+	symphony							\
 	synthetic							\
 	tabs								\
 	tgc								\
@@ -78,5 +80,6 @@ SUBDIRS =								\
 	triviality							\
 	tubular								\
 	tux								\
+	tyrex								\
 	variation							\
 	xfce
