@@ -40,6 +40,7 @@ SUBDIRS =								\
 	kleanux								\
 	koynacity							\
 	linea								\
+	lineart								\
 	meenee 							        \
 	metabox								\
 	microcurve 							\

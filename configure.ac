@@ -53,6 +53,7 @@ themes/kindaker/Makefile
 themes/kleanux/Makefile
 themes/koynacity/Makefile
 themes/linea/Makefile
+themes/lineart/Makefile
 themes/meenee/Makefile
 themes/metabox/Makefile
 themes/microcurve/Makefile
