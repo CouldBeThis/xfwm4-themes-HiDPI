@@ -23,6 +23,7 @@ themes/atlanta/Makefile
 themes/atlanta2/Makefile
 themes/b5/Makefile
 themes/b6/Makefile
+themes/bbs/Makefile
 themes/beastie/Makefile
 themes/biz/Makefile
 themes/buzz/Makefile
@@ -30,9 +31,11 @@ themes/coldsteel/Makefile
 themes/coolclean/Makefile
 themes/crux/Makefile
 themes/cruxish/Makefile
+themes/curve/Makefile
 themes/defcon-IV/Makefile
 themes/eazel-blue/Makefile
 themes/elberg/Makefile
+themes/exocet/Makefile
 themes/fbx/Makefile
 themes/g2/Makefile
 themes/galaxy/Makefile
@@ -48,8 +51,13 @@ themes/kindaker/Makefile
 themes/kleanux/Makefile
 themes/koynacity/Makefile
 themes/linea/Makefile
+themes/meenee/Makefile
 themes/metabox/Makefile
+themes/microcurve/Makefile
 themes/microgui/Makefile
+themes/microdeck/Makefile
+themes/microdeck2/Makefile
+themes/microdeck3/Makefile
 themes/mofit/Makefile
 themes/next/Makefile
 themes/ops/Makefile
@@ -58,6 +66,7 @@ themes/perl/Makefile
 themes/pills/Makefile
 themes/piranha/Makefile
 themes/platinum/Makefile
+themes/prune/Makefile
 themes/quiet-purple/Makefile
 themes/quinx/Makefile
 themes/r9x/Makefile
@@ -69,10 +78,13 @@ themes/slick/Makefile
 themes/slimline/Makefile
 themes/smallscreen/Makefile
 themes/tabs/Makefile
+themes/tgc/Makefile
+themes/tgc-large/Makefile
 themes/today/Makefile
 themes/totem/Makefile
 themes/trench/Makefile
 themes/triviality/Makefile
+themes/tubular/Makefile
 themes/tux/Makefile
 themes/variation/Makefile
 themes/xfce/Makefile

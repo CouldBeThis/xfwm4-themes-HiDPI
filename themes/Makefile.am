@@ -10,6 +10,7 @@ SUBDIRS =								\
 	atlanta2							\
 	b5								\
 	b6								\
+	bbs								\
 	beastie								\
 	biz								\
 	buzz								\
@@ -17,9 +18,11 @@ SUBDIRS =								\
 	coolclean							\
 	crux								\
 	cruxish								\
+	curve								\
 	eazel-blue							\
 	defcon-IV							\
 	elberg								\
+	exocet								\
 	fbx								\
 	g2								\
 	galaxy								\
@@ -35,7 +38,12 @@ SUBDIRS =								\
 	kleanux								\
 	koynacity							\
 	linea								\
+	meenee 							        \
 	metabox								\
+	microcurve 							\
+	microdeck 							\
+	microdeck2 							\
+	microdeck3 							\
 	microgui							\
 	mofit								\
 	next								\
@@ -45,6 +53,7 @@ SUBDIRS =								\
 	pills								\
 	piranha								\
 	platinum							\
+	prune								\
 	quiet-purple							\
 	quinx								\
 	r9x								\
@@ -56,10 +65,13 @@ SUBDIRS =								\
 	slimline							\
 	smallscreen							\
 	tabs								\
+	tgc								\
+	tgc-large							\
 	today								\
 	totem								\
 	trench								\
 	triviality							\
+	tubular								\
 	tux								\
 	variation							\
 	xfce
