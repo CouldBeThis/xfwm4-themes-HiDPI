@@ -31,6 +31,7 @@ themes/eazel-blue/Makefile
 themes/elberg/Makefile
 themes/fbx/Makefile
 themes/g2/Makefile
+themes/galaxy/Makefile
 themes/gaudy/Makefile
 themes/gnububble/Makefile
 themes/gorilla/Makefile

@@ -18,6 +18,7 @@ SUBDIRS =								\
 	elberg								\
 	fbx								\
 	g2								\
+	galaxy								\
 	gaudy								\
 	gnububble							\
 	gorilla								\
