@@ -8,3 +8,4 @@ active_text_color=#ffffff
 inactive_text_color=#cccccc
 title_shadow_active=true
 title_shadow_inactive=true
+show_app_icon=true

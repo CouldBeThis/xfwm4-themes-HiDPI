@@ -7,26 +7,26 @@ theme_DATA = README \
 	bottom-inactive.xpm						\
 	bottom-left-active.png						\
 	bottom-left-active.xpm						\
-	bottom-left-inactive.png					\
-	bottom-left-inactive.xpm					\
+	bottom-left-inactive.png						\
+	bottom-left-inactive.xpm						\
 	bottom-right-active.png						\
 	bottom-right-active.xpm						\
 	bottom-right-inactive.png					\
 	bottom-right-inactive.xpm					\
 	close-active.png						\
-	close-active.xpm						\
+	close-active.xpm							\
 	close-inactive.png						\
 	close-inactive.xpm						\
 	close-pressed.png						\
 	close-pressed.xpm						\
-	frame-active.png						\
+	frame-active.png							\
 	frame-inactive.png						\
 	hide-active.png							\
 	hide-active.xpm							\
 	hide-inactive.png						\
 	hide-inactive.xpm						\
 	hide-pressed.png						\
-	hide-pressed.xpm						\
+	hide-pressed.xpm							\
 	left-active.png							\
 	left-active.xpm							\
 	left-inactive.png						\
@@ -44,10 +44,13 @@ theme_DATA = README \
 	maximize-toggled-pressed.png					\
 	maximize-toggled-pressed.xpm					\
 	menu-active.xpm							\
+	menu-active.png							\
 	menu-inactive.xpm						\
-	menu-pressed.xpm						\
+	menu-inactive.png						\
+	menu-pressed.xpm							\
+	menu-pressed.png							\
 	right-active.png						\
-	right-active.xpm						\
+	right-active.xpm							\
 	right-inactive.png						\
 	right-inactive.xpm						\
 	title-1-active.png						\
