@@ -21,8 +21,8 @@ SUBDIRS =								\
 	crux								\
 	cruxish								\
 	curve								\
-	eazel-blue							\
 	defcon-IV							\
+	eazel-blue							\
 	elberg								\
 	exocet								\
 	fbx								\
@@ -52,6 +52,7 @@ SUBDIRS =								\
 	mofit								\
 	next								\
 	ops								\
+	opta								\
 	oroborus							\
 	perl								\
 	pills								\
@@ -69,6 +70,7 @@ SUBDIRS =								\
 	slimline							\
 	smallscreen							\
 	smoothwall							\
+	symphony							\
 	synthetic							\
 	tabs								\
 	tgc								\
@@ -80,4 +82,7 @@ SUBDIRS =								\
 	tubular								\
 	tux								\
 	variation							\
+	wallis								\
+	waza								\
+	wildbush							\
 	xfce
