@@ -7,8 +7,6 @@ static char * stick_inactive_xpm[] = {
 "#	c #C0C0FF s inactive_color_1",
 "$	c #D0D0FF s inactive_hilight_1",
 "                  ",
-"                  ",
-"                  ",
 "  @@@@@@@@@@@@@@  ",
 " @@@@@@@@@@@@@@@@ ",
 " @@@@@@@@@@@@@@@@ ",
@@ -23,4 +21,6 @@ static char * stick_inactive_xpm[] = {
 " @@@@@@@@@@@@@@@@ ",
 " @@@@@@@@@@@@@@@@ ",
 "  @@@@@@@@@@@@@@  ",
+"                  ",
+"                  ",
 "                  "};

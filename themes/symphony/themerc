@@ -9,3 +9,4 @@ title_shadow_active=true
 # title_shadow_active=false
 title_shadow_inactive=false
 shadow_delta_y=4
+show_app_icon=true
