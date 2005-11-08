@@ -5,3 +5,4 @@ title_horizontal_offset=2
 button_offset=1
 button_spacing=1
 button_layout=OT|HMC
+show_app_icon=true

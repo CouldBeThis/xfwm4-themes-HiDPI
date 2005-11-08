@@ -7,3 +7,4 @@ button_spacing=0
 button_layout=OT|SHMC
 active_border_color=#000000
 inactive_border_color=#000000
+show_app_icon=true
