@@ -4,3 +4,4 @@ title_vertical_offset_inactive=0
 button_offset=2
 button_spacing=2
 button_layout=O|HMC
+show_app_icon=true
