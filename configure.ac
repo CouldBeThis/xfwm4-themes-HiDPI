@@ -95,7 +95,6 @@ themes/triviality/Makefile
 themes/tubular/Makefile
 themes/tux/Makefile
 themes/variation/Makefile
-themes/wallis/Makefile
 themes/waza/Makefile
 themes/wildbush/Makefile
 themes/xfce/Makefile

@@ -82,7 +82,6 @@ SUBDIRS =								\
 	tubular								\
 	tux								\
 	variation							\
-	wallis								\
 	waza								\
 	wildbush							\
 	xfce
