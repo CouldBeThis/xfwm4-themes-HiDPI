@@ -14,6 +14,7 @@ AC_PROG_INSTALL
 AC_OUTPUT([
 xfwm4-themes.spec
 Makefile
+themes/Makefile
 themes/adept/Makefile
 themes/agua/Makefile
 themes/agualemon/Makefile
@@ -94,7 +95,6 @@ themes/triviality/Makefile
 themes/tubular/Makefile
 themes/tux/Makefile
 themes/variation/Makefile
-themes/wallis/Makefile
 themes/waza/Makefile
 themes/wildbush/Makefile
 themes/xfce/Makefile
