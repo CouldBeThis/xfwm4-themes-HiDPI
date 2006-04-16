@@ -4,7 +4,7 @@ AC_INIT([configure])
 
 AM_CONFIG_HEADER(config.h)
 
-AM_INIT_AUTOMAKE([xfwm4-themes], [4.3.0])
+AM_INIT_AUTOMAKE([xfwm4-themes], [4.3.90.1])
 
 AM_MAINTAINER_MODE
 
@@ -15,11 +15,11 @@ AC_OUTPUT([
 xfwm4-themes.spec
 Makefile
 themes/adept/Makefile
-themes/agualemon/Makefile
 themes/agua/Makefile
+themes/agualemon/Makefile
 themes/alternate/Makefile
-themes/atlanta2/Makefile
 themes/atlanta/Makefile
+themes/atlanta2/Makefile
 themes/b5/Makefile
 themes/b6/Makefile
 themes/basix/Makefile
@@ -30,8 +30,8 @@ themes/blackwall/Makefile
 themes/buzz/Makefile
 themes/coldsteel/Makefile
 themes/coolclean/Makefile
-themes/cruxish/Makefile
 themes/crux/Makefile
+themes/cruxish/Makefile
 themes/curve/Makefile
 themes/defcon-IV/Makefile
 themes/eazel-blue/Makefile
@@ -46,21 +46,20 @@ themes/gnububble/Makefile
 themes/gorilla/Makefile
 themes/gtk/Makefile
 themes/iceg/Makefile
-themes/kde1/Makefile
 themes/kde/Makefile
+themes/kde1/Makefile
 themes/keramik/Makefile
 themes/kindaker/Makefile
 themes/kleanux/Makefile
 themes/koynacity/Makefile
 themes/linea/Makefile
 themes/lineart/Makefile
-themes/Makefile
 themes/meenee/Makefile
 themes/metabox/Makefile
 themes/microcurve/Makefile
+themes/microdeck/Makefile
 themes/microdeck2/Makefile
 themes/microdeck3/Makefile
-themes/microdeck/Makefile
 themes/microgui/Makefile
 themes/mofit/Makefile
 themes/next/Makefile
@@ -86,8 +85,8 @@ themes/smoothwall/Makefile
 themes/symphony/Makefile
 themes/synthetic/Makefile
 themes/tabs/Makefile
-themes/tgc-large/Makefile
 themes/tgc/Makefile
+themes/tgc-large/Makefile
 themes/today/Makefile
 themes/totem/Makefile
 themes/trench/Makefile
@@ -95,6 +94,7 @@ themes/triviality/Makefile
 themes/tubular/Makefile
 themes/tux/Makefile
 themes/variation/Makefile
+themes/wallis/Makefile
 themes/waza/Makefile
 themes/wildbush/Makefile
 themes/xfce/Makefile
