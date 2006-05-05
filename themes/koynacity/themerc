@@ -1,6 +1,8 @@
 full_width_title=true
 button_spacing=0
 title_horizontal_offset=-30
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
 title_alignment=left
 button_offset=-2
 button_layout=O|HMC

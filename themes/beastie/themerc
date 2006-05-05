@@ -1,6 +1,6 @@
 full_width_title=false
 title_alignment=left
-shadow_delta_y=20
+shadow_delta_y=-20
 button_offset=0
 button_spacing=0
 button_layout=O|

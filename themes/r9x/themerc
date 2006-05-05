@@ -5,5 +5,5 @@ title_vertical_offset_active=-2
 title_vertical_offset_inactive=-2
 active_text_color=#FFFFFF
 inactive_text_color=#5a5a5a
-shadow_delta_y=4
+shadow_delta_y=-4
 shadow_delta_height=8
