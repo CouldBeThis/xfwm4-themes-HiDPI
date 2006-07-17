@@ -1,3 +1,55 @@
+2006-07-04 20:51  olivier
+
+	* configure.ac: Update package
+
+2006-07-04 20:38  olivier
+
+	* themes/lineart/menu-active.xpm,
+	  themes/lineart/menu-inactive.xpm,
+	  themes/lineart/menu-pressed.xpm, themes/lineart/themerc: Use app
+	  icon.
+
+2006-07-04 20:17  olivier
+
+	* themes/lineart/title-1-active.xpm,
+	  themes/lineart/title-1-inactive.xpm: Fix typo
+
+2006-06-21 19:19  olivier
+
+	* INSTALL: Add missing INSTALL file.
+
+2006-05-05 21:54  olivier
+
+	* themes/adept/themerc, themes/atlanta/themerc, themes/b5/themerc,
+	  themes/b6/themerc, themes/basix/themerc, themes/beastie/themerc,
+	  themes/blackwall/themerc, themes/exocet/themerc,
+	  themes/fbx/themerc, themes/g2/themerc, themes/gtk/themerc,
+	  themes/iceg/themerc, themes/kde/themerc, themes/kde1/themerc,
+	  themes/keramik/themerc, themes/kleanux/themerc,
+	  themes/koynacity/themerc, themes/linea/themerc,
+	  themes/lineart/themerc, themes/metabox/themerc,
+	  themes/mofit/themerc, themes/piranha/themerc,
+	  themes/quinx/themerc, themes/r9x/themerc,
+	  themes/redmondxp/themerc, themes/silverado/themerc,
+	  themes/smoothwall/themerc, themes/symphony/themerc,
+	  themes/synthetic/themerc, themes/tabs/themerc,
+	  themes/tubular/themerc, themes/tux/themerc,
+	  themes/variation/themerc, themes/waza/themerc,
+	  themes/xfce/themerc: Adjust themes after a bug fix in title
+	  offset.
+
+2006-04-16 22:36  olivier
+
+	* configure.ac: Fix build.
+
+2006-04-16 14:35  olivier
+
+	* configure.ac: Update package
+
+2006-04-15 17:46  olivier
+
+	* ChangeLog: Update ChangeLog
+
 2006-04-11 19:50  olivier
 
 	* themes/xfce/close-active.xpm, themes/xfce/close-inactive.xpm,

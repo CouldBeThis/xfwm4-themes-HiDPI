@@ -9,3 +9,4 @@ title_shadow_inactive=false
 title_vertical_offset_active=1
 title_vertical_offset_inactive=1
 show_app_icon=true
+maximized_offset=4
