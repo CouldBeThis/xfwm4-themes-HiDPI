@@ -1,15 +1,14 @@
 dnl configure.ac
 
-AC_INIT([configure])
+AC_INIT([xfwm4-themes], [4.3.99.2], [http://bugzilla.xfce.org])
 
-AM_CONFIG_HEADER(config.h)
+AM_CONFIG_HEADER([config.h])
 
-AM_INIT_AUTOMAKE([xfwm4-themes], [4.3.99.2])
-
-AM_MAINTAINER_MODE
+AM_INIT_AUTOMAKE([1.8 dist-bzip2 tar-ustar])
+AM_MAINTAINER_MODE()
 
 dnl Check for basic programs
-AC_PROG_INSTALL
+AC_PROG_INSTALL()
 
 AC_OUTPUT([
 xfwm4-themes.spec
