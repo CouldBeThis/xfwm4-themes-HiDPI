@@ -18,7 +18,6 @@ theme_DATA = README \
 	maximize-toggled-active.xpm \
 	maximize-inactive.xpm \
 	maximize-toggled-inactive.xpm \
-	maximize-inactive.xpm \
 	maximize-pressed.xpm \
 	maximize-toggled-pressed.xpm \
 	menu-active.xpm \
@@ -47,4 +46,4 @@ theme_DATA = README \
 	top-left-inactive.xpm \
 	top-right-active.xpm \
 	top-right-inactive.xpm
-EXTRA_DIST = $(theme_DATA)
+EXTRA_DIST = $(theme_DATA)	
