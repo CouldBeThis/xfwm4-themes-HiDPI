@@ -21,6 +21,11 @@ SUBDIRS =								\
 	crux								\
 	cruxish								\
 	curve								\
+	default-4.0							\
+	default-4.2							\
+	default-4.4							\
+	default-4.6							\
+	default-4.8							\
 	defcon-IV							\
 	eazel-blue							\
 	elberg								\
@@ -65,23 +70,28 @@ SUBDIRS =								\
 	redmond								\
 	redmondxp							\
 	retro								\
+	sassandra							\
 	silverado							\
 	slick								\
 	slimline							\
 	smallscreen							\
 	smoothwall							\
+	stoneage							\
 	symphony							\
 	synthetic							\
 	tabs								\
 	tgc								\
 	tgc-large							\
+	therapy								\
 	today								\
 	totem								\
 	trench								\
 	triviality							\
 	tubular								\
 	tux								\
+	tyrex								\
 	variation							\
+	wallis								\
 	waza								\
 	wildbush							\
 	xfce

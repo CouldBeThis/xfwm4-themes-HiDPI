@@ -1,6 +1,6 @@
 dnl configure.ac
 
-AC_INIT([xfwm4-themes], [4.6.0], [http://bugzilla.xfce.org])
+AC_INIT([xfwm4-themes], [4.9.0], [http://bugzilla.xfce.org])
 
 AM_CONFIG_HEADER([config.h])
 
@@ -11,15 +11,14 @@ dnl Check for basic programs
 AC_PROG_INSTALL()
 
 AC_OUTPUT([
-xfwm4-themes.spec
 Makefile
 themes/Makefile
 themes/adept/Makefile
-themes/agua/Makefile
 themes/agualemon/Makefile
+themes/agua/Makefile
 themes/alternate/Makefile
-themes/atlanta/Makefile
 themes/atlanta2/Makefile
+themes/atlanta/Makefile
 themes/b5/Makefile
 themes/b6/Makefile
 themes/basix/Makefile
@@ -30,9 +29,14 @@ themes/blackwall/Makefile
 themes/buzz/Makefile
 themes/coldsteel/Makefile
 themes/coolclean/Makefile
-themes/crux/Makefile
 themes/cruxish/Makefile
+themes/crux/Makefile
 themes/curve/Makefile
+themes/default-4.0/Makefile
+themes/default-4.2/Makefile
+themes/default-4.4/Makefile
+themes/default-4.6/Makefile
+themes/default-4.8/Makefile
 themes/defcon-IV/Makefile
 themes/eazel-blue/Makefile
 themes/elberg/Makefile
@@ -46,8 +50,8 @@ themes/gnububble/Makefile
 themes/gorilla/Makefile
 themes/gtk/Makefile
 themes/iceg/Makefile
-themes/kde/Makefile
 themes/kde1/Makefile
+themes/kde/Makefile
 themes/keramik/Makefile
 themes/kindaker/Makefile
 themes/kleanux/Makefile
@@ -57,9 +61,9 @@ themes/lineart/Makefile
 themes/meenee/Makefile
 themes/metabox/Makefile
 themes/microcurve/Makefile
-themes/microdeck/Makefile
 themes/microdeck2/Makefile
 themes/microdeck3/Makefile
+themes/microdeck/Makefile
 themes/microgui/Makefile
 themes/mofit/Makefile
 themes/next/Makefile
@@ -77,23 +81,28 @@ themes/r9x/Makefile
 themes/redmond/Makefile
 themes/redmondxp/Makefile
 themes/retro/Makefile
+themes/sassandra/Makefile
 themes/silverado/Makefile
 themes/slick/Makefile
 themes/slimline/Makefile
 themes/smallscreen/Makefile
 themes/smoothwall/Makefile
+themes/stoneage/Makefile
 themes/symphony/Makefile
 themes/synthetic/Makefile
 themes/tabs/Makefile
-themes/tgc/Makefile
 themes/tgc-large/Makefile
+themes/tgc/Makefile
+themes/therapy/Makefile
 themes/today/Makefile
 themes/totem/Makefile
 themes/trench/Makefile
 themes/triviality/Makefile
 themes/tubular/Makefile
 themes/tux/Makefile
+themes/tyrex/Makefile
 themes/variation/Makefile
+themes/wallis/Makefile
 themes/waza/Makefile
 themes/wildbush/Makefile
 themes/xfce/Makefile
