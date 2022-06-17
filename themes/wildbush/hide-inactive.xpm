@@ -1,5 +1,9 @@
 /* XPM */
-static char * bouton_inactive_xpm[] = {
-"1 1 1 1",
-" 	c None",
-" "};
+static char *hide_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"2 2 1 1 ",
+"  c None",
+/* pixels */
+"  ",
+"  "
+};
