@@ -1,13 +1,23 @@
 /* XPM */
-static char * right_active_xpm[] = {
-"3 8 2 1",
-" 	c None",
-".	c #7A6A99",
-"...",
-"...",
-"...",
-"...",
-"...",
-"...",
-"...",
-"..."};
+static char *right_active[] = {
+/* columns rows colors chars-per-pixel */
+"6 16 1 1 ",
+"  c #7A6A99",
+/* pixels */
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      "
+};

@@ -1,16 +1,30 @@
 /* XPM */
-static char * right_active_xpm[] = {
-"4 8 5 1",
-" 	c None",
-".	c #FFFFFF s active_hilight_2",
-"+	c #D8D8D8 s active_color_2",
-"@	c #888888 s active_mid_2",
-"#	c #606060 s active_shadow_2",
-".+@#",
-".+@#",
-".+@#",
-".+@#",
-".+@#",
-".+@#",
-".+@#",
-".+@#"};
+static char *right_active[] = {
+/* columns rows colors chars-per-pixel */
+"8 16 8 1 ",
+"  c #5F5F5F",
+". c #686868",
+"X c #7C7C7C",
+"o c #9C9C9C",
+"O c #C4C4C4",
+"+ c #E4E4E4",
+"@ c #F7F7F7",
+"# c white",
+/* pixels */
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. ",
+"#@+OoX. "
+};

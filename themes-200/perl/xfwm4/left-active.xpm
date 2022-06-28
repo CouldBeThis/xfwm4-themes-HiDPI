@@ -1,9 +1,20 @@
 /* XPM */
-static char * left_active_xpm[] = {
-"7 2 4 1",
-" 	c None",
-".	c #B9B9B9 s active_shadow_2",
-"+	c #FFFFFF s active_hilight_2",
-"@	c #CFCFCF s active_mid_2",
-"  .++@.",
-"  .++@."};
+static char *left_active[] = {
+/* columns rows colors chars-per-pixel */
+"14 4 10 1 ",
+"  c None",
+". c #B7B7B7",
+"X c #B8B8B8",
+"o c #BDBDBD",
+"O c #C8C8C8",
+"+ c #CACACA",
+"@ c #DBDBDB",
+"# c #EDEDED",
+"$ c #F4F4F4",
+"% c white",
+/* pixels */
+"    .+#%%$@+oX",
+"    .+#%%$@+oX",
+"    .+#%%$@+oX",
+"    .+#%%$@+oX"
+};

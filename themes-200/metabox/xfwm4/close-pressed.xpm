@@ -1,28 +1,67 @@
 /* XPM */
-static char * close_pressed_xpm[] = {
-"19 21 4 1",
-" 	c None",
-".	c #000000",
-"+	c #5B80AD s active_shadow_1",
-"=	c #729CCD s active_text_color",
-"...................",
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"++++==+++++++==++++"+
-"++++===+++++===++++"+
-"+++++===+++===+++++"+
-"++++++===+===++++++"+
-"+++++++=====+++++++"+
-"++++++++===++++++++"+
-"+++++++=====+++++++"+
-"++++++===+===++++++"+
-"+++++===+++===+++++"+
-"++++===+++++===++++"+
-"++++==+++++++==++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"..................."}+
+static char *close_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"38 42 19 1 ",
+"  c black",
+". c #151E29",
+"X c #446081",
+"o c #5A7FAC",
+"O c #5B80AD s active_shadow_1",
+"+ c #5C82AF",
+"@ c #5D83B1",
+"# c #5F85B3",
+"$ c #6187B5",
+"% c #648CBA",
+"& c #658CBB",
+"* c #688FBF",
+"= c #6890BF",
+"- c #6D96C6",
+"; c #6E97C8",
+": c #719BCB",
+"> c #719BCC",
+", c #739ECF",
+"< c #749ECF",
+/* pixels */
+"                                      ",
+"......................................",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+"@@@+@@@@+@@+@+++@@++++@@@@@+@@@@+@@@@@",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOooOOOOOOOOO",
+"OOOOOOOOOoooOOOOOOOOOOOOOOooooOOOOOOOO",
+"OOOOOOO+#$$#+oOOOOOOOOOOo+#$$#+OOOOOOO",
+"OOOOOOo#=--=#ooOOOOOOOOoo#=--=#oOOOOOO",
+"OOOOOOo$-<,;&#+oOOOOOOo+#&;,<-$oOOOOOO",
+"OOOOOOo$-,,>;=#oOOOOOoo#=;>,,-$oOOOOOO",
+"OOOOOOo#=;>,,;&#+OOOo+#&;,,>;=#OOOOOOO",
+"OOOOOOO+#&;,,>;=#oOOo#=;>,,;&#+OOOOOOO",
+"OOOOOOOOo#=;>,,;&#++#&;,,>;=#oOOOOOOOO",
+"OOOOOOOOo+#&;,,>;*##*;>,,;&#+oOOOOOOOO",
+"OOOOOOOOOoo#=;>,,-&&-,,>;=#ooOOOOOOOOO",
+"OOOOOOOOOOo+#&;,,:--:,,;&#+oOOOOOOOOOO",
+"OOOOOOOOOOOoo#*-:,,,,:-*#ooOOOOOOOOOOO",
+"OOOOOOOOOOOOo+#&-,,,,-&#+OOOOOOOOOOOOO",
+"OOOOOOOOOOOOo+#&-,,,,-&#+OOOOOOOOOOOOO",
+"OOOOOOOOOOOoo#*-:,,,,:-*#oOOOOOOOOOOOO",
+"OOOOOOOOOOo+#&;,,:--:,,;&#+OOOOOOOOOOO",
+"OOOOOOOOOoo#=;>,,-&&-,,>;=#ooOOOOOOOOO",
+"OOOOOOOOo+#&;,,>;*##*;>,,;&#+oOOOOOOOO",
+"OOOOOOOOo#=;>,,;&#++#&;,,>;=#ooOOOOOOO",
+"OOOOOOO+#&;,,>;=#oooo#=;>,,;&#+OOOOOOO",
+"OOOOOOo#=;>,,;&#+oOOo+#&;,,>;=#oOOOOOO",
+"OOOOOOo$-,,>;=#ooOOOOoo#=;>,,-$oOOOOOO",
+"OOOOOOo$-<,;&#+oOOOOOOo+#&;,<-$oOOOOOO",
+"OOOOOOo#=--=#oOOOOOOOOOoo#=--=#oOOOOOO",
+"OOOOOOO+#$$#+oOOOOOOOOOOO+#$$#+OOOOOOO",
+"OOOOOOOOOoooOOOOOOOOOOOOOOooooOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"@@+@++@+@@++@@@@++@@@@@@@@++++@@@@++++",
+"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"......................................",
+"                                      "
+};
