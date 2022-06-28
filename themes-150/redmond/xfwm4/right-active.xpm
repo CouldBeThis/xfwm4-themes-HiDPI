@@ -1,8 +1,13 @@
 /* XPM */
-static char * right_active_xpm[] = {
-"5 1 4 1",
-" 	c None",
-".	c #000000 s active_border_color",
-"@	c #D8D8D8 s active_color_2",
-"#	c #B2B2B2 s active_shadow_2",
-"@@@#."};
+static char *right_active[] = {
+/* columns rows colors chars-per-pixel */
+"8 2 5 1 ",
+"  c black",
+". c #494949",
+"X c #B1B1B1",
+"o c #D0D0D0",
+"O c #D8D8D8 s active_color_2",
+/* pixels */
+"OOOOoX. ",
+"OOOOoX. "
+};

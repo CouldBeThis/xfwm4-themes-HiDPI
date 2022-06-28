@@ -1,13 +1,21 @@
 /* XPM */
-static char * left_active_xpm[] = {
-"5 5 5 1",
-" 	c None",
-".	c #000000 s active_border_color",
-"+	c #FFFFFF s active_hilight_2",
-"@	c #CCCCC7 s active_color_2",
-"#	c #919189 s active_shadow_2",
-".+@#.",
-".+@#.",
-".+@#.",
-".+@#.",
-".+@#."};
+static char *left_active[] = {
+/* columns rows colors chars-per-pixel */
+"8 8 7 1 ",
+"  c black",
+". c #3B3B37",
+"X c #6C6C6C",
+"o c #92928B",
+"O c #BCBCB5",
+"+ c #E3E3DF",
+"@ c #F3F3F3",
+/* pixels */
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. ",
+" X@+Oo. "
+};

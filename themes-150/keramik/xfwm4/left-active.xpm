@@ -1,14 +1,22 @@
 /* XPM */
-static char * left_active_xpm[] = {
-"3 8 3 1",
-" 	c None",
-".	c #FDFDFE",
-"+	c #C3D8E2",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+"};
+static char *left_active[] = {
+/* columns rows colors chars-per-pixel */
+"5 12 4 1 ",
+"  c #C2D7E2",
+". c #D9E6ED",
+"X c #FAFBFC",
+"o c #FDFDFE",
+/* pixels */
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. ",
+"ooX. "
+};

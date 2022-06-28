@@ -1,13 +1,36 @@
 /* XPM */
-static char * bottom_left_active_xpm[] = {
-"5 5 5 1",
-" 	c None",
-".	c #000000 s active_border_color",
-"+	c #FFFFFF s active_hilight_2",
-"@	c #DFDFDF s active_color_2",
-"#	c #B2B2B2 s active_shadow_2",
-".+@#.",
-".+@#+",
-".+@@@",
-".+###",
-"....."};
+static char *bottom_left_active[] = {
+/* columns rows colors chars-per-pixel */
+"8 8 22 1 ",
+"  c #000000 s active_border_color",
+". c #2D2D2D",
+"X c #474747",
+"o c #484848",
+"O c #555555",
+"+ c #646464",
+"@ c #6B6B6B",
+"# c #6E6E6E",
+"$ c #878787",
+"% c #AFAFAF",
+"& c #B1B1B1",
+"* c #BCBCBC",
+"= c #CCCCCC",
+"- c #D0D0D0",
+"; c #D4D4D4",
+": c #DADADA",
+"> c #E3E3E3",
+", c #EBEBEB",
+"< c #EFEFEF",
+"1 c #F0F0F0",
+"2 c #F5F5F5",
+"3 c #F9F9F9",
+/* pixels */
+" @2<;&X ",
+" @2<-&$@",
+" @2<-*:2",
+" @2<:;>1",
+" #3,;;;;",
+" @,=%&&&",
+" .+Ooooo",
+"        "
+};

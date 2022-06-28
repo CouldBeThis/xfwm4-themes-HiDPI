@@ -1,13 +1,19 @@
 /* XPM */
-static char * right_inactive_xpm[] = {
-"3 8 2 1",
-" 	c None",
-".	c #BCB5CA",
-"...",
-"...",
-"...",
-"...",
-"...",
-"...",
-"...",
-"..."};
+static char *right_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"5 12 1 1 ",
+"  c #BCB5CA",
+/* pixels */
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     ",
+"     "
+};

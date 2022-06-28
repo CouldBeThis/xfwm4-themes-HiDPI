@@ -1,22 +1,22 @@
 /* XPM */
-static char * left_inactive_xpm[] = {
-"4 4 15 1",
-" 	g None",
-".	g #DBDBDB",
-"+	g #D3D3D3",
-"@	g #E9E9E9",
-"#	g #EEEEEE",
-"$	g #DEDEDE",
-"%	g #D6D6D6",
-"&	g #F3F3F3",
-"*	g #F9F9F9",
-"=	g #D9D9D9",
-"-	g #D0D0D0",
-";	g #D5D5D5",
-">	g #CCCCCC",
-",	g #E3E3E3",
-"'	g #E6E6E6",
-".+@#",
-"$%&*",
-"=-@#",
-";>,'"};
+static char *left_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"6 6 10 1 ",
+"  c #D2D2D2",
+". c #D6D6D6",
+"X c #DBDBDB",
+"o c #DDDDDD",
+"O c #E1E1E1",
+"+ c #E5E5E5",
+"@ c #EAEAEA",
+"# c #EDEDED",
+"$ c #F0F0F0",
+"% c #F5F5F5",
+/* pixels */
+"X..+##",
+"oXX@$%",
+"oXX#%%",
+"X..+#$",
+".  O@@",
+".  o++"
+};

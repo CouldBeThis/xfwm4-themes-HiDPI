@@ -1,14 +1,21 @@
 /* XPM */
-static char * left_inactive_xpm[] = {
-"3 8 3 1",
-" 	c None",
-".	c #FEFEFE",
-"+	c #FAFBFC",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+",
-"..+"};
+static char *left_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"5 12 3 1 ",
+"  c #FAFBFC",
+". c #FCFCFD",
+"X c #FEFEFE",
+/* pixels */
+"XXXX ",
+"XXXX ",
+"XXXX ",
+"XXXX ",
+"XXX. ",
+"XXX. ",
+"XXX. ",
+"XXX. ",
+"XXX. ",
+"XXX. ",
+"XXXX ",
+"XXXX "
+};

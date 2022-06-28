@@ -1,16 +1,24 @@
 /* XPM */
-static char * bottom_inactive_xpm[] = {
-"32 6 7 1",
-" 	c None",
-".	c #DEDEDF",
-"+	c #D4D6D7",
-"@	c #CBCBCE",
-"#	c #C4C3C6",
-"$	c #A8A9AA",
-"%	c #3C3C3C",
-"................................",
-"++++++++++++++++++++++++++++++++",
-"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-"################################",
-"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$",
-"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"};
+static char *bottom_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"48 9 9 1 ",
+"  c #3B3B3B",
+". c #6F7070",
+"X c #ADAEAF",
+"o c #C0BFC2",
+"O c #C8C8CB",
+"+ c #CCCDD0",
+"@ c #D2D4D5",
+"# c #D9DBDB",
+"$ c #DEDEDF",
+/* pixels */
+"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$",
+"################################################",
+"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+"++++++++++++++++++++++++++++++++++++++++++++++++",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"oooooooooooooooooooooooooooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"................................................",
+"                                                "
+};

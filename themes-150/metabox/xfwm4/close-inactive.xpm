@@ -1,28 +1,56 @@
 /* XPM */
-static char * close_inactive_xpm[] = {
-"19 21 4 1",
-" 	c None",
-".	c #000000",
-"+	c #5B80AD s inactive_color_1",
-"=	c #729CCD s inactive_shadow_1",
-"...................",
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"++++==+++++++==++++"+
-"++++===+++++===++++"+
-"+++++===+++===+++++"+
-"++++++===+===++++++"+
-"+++++++=====+++++++"+
-"++++++++===++++++++"+
-"+++++++=====+++++++"+
-"++++++===+===++++++"+
-"+++++===+++===+++++"+
-"++++===+++++===++++"+
-"++++==+++++++==++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"+++++++++++++++++++"+
-"..................."}+
+static char *close_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"29 32 18 1 ",
+"  c black",
+". c #2A3C51",
+"X c #5B7FAC",
+"o c #5B80AD s inactive_color_1",
+"O c #5C81AF",
+"+ c #5D82B0",
+"@ c #5E83B1",
+"# c #6289B7",
+"$ c #6389B8",
+"% c #648AB9",
+"& c #658DBB",
+"* c #668DBC",
+"= c #6D96C7",
+"- c #6E97C8",
+"; c #7099CA",
+": c #719BCC",
+"> c #729CCD s inactive_shadow_1",
+", c #749ECF",
+/* pixels */
+"                             ",
+".............................",
+"ooooooooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"ooooooooooooooooooooooooooooo",
+"ooooooooooooooooooooooooooooo",
+"oooooooXXooooooooooooXooooooo",
+"oooooO#&%+XoooooooX+%&#Oooooo",
+"ooooX+=>;$OoooooooO$;>=+Xoooo",
+"ooooX+=,>-&oXooooo&->,=+Xoooo",
+"ooooXO*=>>=%+XoX+%=>>=*OXoooo",
+"ooooooo%;>>;$OoO$;>>;%ooooooo",
+"ooooooX+$->>=&O&->>-$+Xoooooo",
+"oooooooXO*=>>=&=>>=*OXooooooo",
+"oooooooooo%;>>:>>;%oooooooooo",
+"oooooooooXO$=>>>=#OXooooooooo",
+"oooooooooXO$=>>>=$OXooooooooo",
+"oooooooooo%;>>:>>;%oooooooooo",
+"oooooooXO*=>>=&=>>=*OXooooooo",
+"ooooooX+$->>-&O&=>>-$+Xoooooo",
+"ooooooo%;>>;$OoO$;>>;%ooooooo",
+"ooooXO*=>>=%+XoX+%=>>=*OXoooo",
+"ooooX+=,>-&oXoooXo&->,=+Xoooo",
+"ooooX+=>;$OoooooooO$;>=+Xoooo",
+"oooooO#&%+XoooooooX+%&#Oooooo",
+"oooooooXXoooooooooooXXooooooo",
+"ooooooooooooooooooooooooooooo",
+"ooooooooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"ooooooooooooooooooooooooooooo",
+".............................",
+"                             "
+};
