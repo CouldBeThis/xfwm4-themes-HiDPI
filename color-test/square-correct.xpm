@@ -1,0 +1,13 @@
+/* XPM */
+static char * square_correct_xpm[] = {
+"8 8 2 1",
+"X	c #FC54A8",
+"/	c #000000",
+"XX//////",
+"XX//////",
+"//XXXX//",
+"//XXXX//",
+"//XXXX//",
+"//XXXX//",
+"//////XX",
+"//////XX"};
