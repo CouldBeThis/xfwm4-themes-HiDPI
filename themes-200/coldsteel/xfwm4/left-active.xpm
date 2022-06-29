@@ -1,0 +1,15 @@
+/* XPM */
+static char *left_active[] = {
+/* columns rows colors chars-per-pixel */
+"14 4 5 1 ",
+"  c None",
+". c black",
+"X c gray50",
+"o c gray81",
+"O c gray97",
+/* pixels */
+"    ..OOooXX..",
+"    ..OOooXX..",
+"    ..OOooXX..",
+"    ..OOooXX.."
+};
