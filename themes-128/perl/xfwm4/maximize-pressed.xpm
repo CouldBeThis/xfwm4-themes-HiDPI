@@ -1,0 +1,22 @@
+/* XPM */
+static char *maximize_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"12 13 3 1 ",
+"  c None",
+". c #D2D2D2 s active_shadow_2",
+"X c white",
+/* pixels */
+"            ",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"X..........X",
+"X..XX..XX..X",
+"X..XX..XX..X",
+"X..XX..XX..X",
+"X......XX..X",
+"X..XXXXXX..X",
+"X..XXXXXX..X",
+"X..........X",
+"X..........X",
+"XXXXXXXXXXXX"
+};

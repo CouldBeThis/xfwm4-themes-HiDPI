@@ -1,0 +1,28 @@
+/* XPM */
+static char *bottom_right_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"15 15 7 1 ",
+"  c #90A8CA",
+". c #93A9CA",
+"X c #9BAFC9",
+"o c #9FBCDC",
+"O c #A0B7CF",
+"+ c #A2BAD2",
+"@ c #A6B9D6",
+/* pixels */
+"@@@ooo+++XXX...",
+"@@@ooo+++XXX...",
+"@@@ooo+++XXX...",
+"@@@ooo+++XXX...",
+"@@@ooo+++XXX...",
+"@@@ooo+++XXX...",
+"OOOOOOOOOXXX...",
+"OOOOOOOOOXXX...",
+"OOOOOOOOOXXX...",
+"XXXXXXXXXXXX...",
+"XXXXXXXXXXXX...",
+"XXXXXXXXXXXX...",
+"............XXX",
+"............XXX",
+"............XXX"
+};

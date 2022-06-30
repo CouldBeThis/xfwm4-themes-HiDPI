@@ -1,0 +1,29 @@
+/* XPM */
+static char *square_large[] = {
+/* columns rows colors chars-per-pixel */
+"8 8 15 1 ",
+"  c #000000",
+". c #0E0509",
+"X c #2C0F1E",
+"o c #391326",
+"O c #3B1427",
+"+ c #3C1428",
+"@ c #5D1F3E",
+"# c #8D2F5E",
+"$ c #9D3469",
+"% c #A1366B",
+"& c #C24181",
+"* c #C34182",
+"= c #C54283",
+"- c #FF59B3",
+"; c #FF5BB5",
+/* pixels */
+"-=+     ",
+"=%@oOX. ",
+"+@$&&#X ",
+" o&;;&O ",
+" O&;;&o ",
+" X#&&$@+",
+" .XOo@%=",
+"     +=-"
+};

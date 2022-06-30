@@ -1,0 +1,35 @@
+/* XPM */
+static char *maximize_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"20 26 3 1 ",
+"  c None",
+". c black",
+"X c #4B58A2 s active_shadow_2",
+/* pixels */
+"                    ",
+"                    ",
+"                    ",
+"                    ",
+"                    ",
+"....................",
+"....................",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXX..........XXXX.",
+".XXXX..........XXXX.",
+".XXXX..........XXXX.",
+".XXXX..........XXXX.",
+".XXXX.XXXXXXXX.XXXX.",
+".XXXX.XXXXXXXX.XXXX.",
+".XXXX.XXXXXXXX.XXXX.",
+".XXXX.XXXXXXXX.XXXX.",
+".XXXX.XXXXXXXX.XXXX.",
+".XXXX..........XXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+"...................."
+};

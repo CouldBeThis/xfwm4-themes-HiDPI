@@ -1,0 +1,35 @@
+/* XPM */
+static char *hide_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"26 24 5 1 ",
+"  c black",
+". c gray51",
+"X c #CBCBCB s inactive_mid_1",
+"o c #E6E6E6 s inactive_color_1",
+"O c #FFFFFF s inactive_hilight_1",
+/* pixels */
+"                          ",
+"OOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOO",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooX..........XXoooooo",
+"ooooooo.............oooooo",
+"ooooooo.............oooooo",
+"ooooooo.............oooooo",
+"oooooooX..........XXoooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooo",
+".........................."
+};

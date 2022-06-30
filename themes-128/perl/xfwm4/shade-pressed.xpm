@@ -1,0 +1,22 @@
+/* XPM */
+static char *shade_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"12 13 3 1 ",
+"  c None",
+". c gray82",
+"X c #F7F7F7 s active_color_2",
+/* pixels */
+"            ",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"X..........X",
+"X..XXXXXX..X",
+"X..........X",
+"X..........X",
+"X..XXXXXX..X",
+"X..XXXXXX..X",
+"X..XXXXXX..X",
+"X..........X",
+"X..........X",
+"XXXXXXXXXXXX"
+};

@@ -1,0 +1,37 @@
+/* XPM */
+static char *menu_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"20 27 4 1 ",
+"  c black",
+". c #9B9B8A s active_shadow_2",
+"X c #D6D6CC s active_color_2",
+"o c white",
+/* pixels */
+"                    ",
+"                    ",
+"oooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXX   XXXX   XXXXX",
+"XXXXX   XXXX   XXXXX",
+"XXXXX    XX    XXXXX",
+"XXXXXX        XXXXXX",
+"XXXXXX        XXXXXX",
+"XXXXXXXX    XXXXXXXX",
+"XXXXXXXXX  XXXXXXXXX",
+"XXXXXXXXX  XXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"...................."
+};

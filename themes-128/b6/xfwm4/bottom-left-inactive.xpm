@@ -1,0 +1,36 @@
+/* XPM */
+static char *bottom_left_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"35 24 6 1 ",
+"  c None",
+". c black",
+"X c #ACAE94 s inactive_shadow_2",
+"o c #D5D6CD s inactive_mid_2",
+"O c #EEEEE6 s inactive_color_2",
+"+ c #FBFBFA s inactive_hilight_2",
+/* pixels */
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOO                 ",
+"            .+OOOOOOOOOOOOOOOOOOOOO",
+"            .+OOOOOOOOOOOOOOOOOOOOO",
+"             .oooOOOOOOOOOOOOOOOOOO",
+"             .XXXoooooooooooooooooo",
+"              ...XXXXXXXXXXXXXXXXXX",
+"                 ..................",
+"                 ..................",
+"                                   "
+};

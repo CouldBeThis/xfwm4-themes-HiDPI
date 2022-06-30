@@ -1,0 +1,37 @@
+/* XPM */
+static char *close_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"26 28 3 1 ",
+"  c None",
+". c #FF9F7F",
+"X c #FFFFFF s inactive_text_color",
+/* pixels */
+"                          ",
+"                          ",
+"                          ",
+"   XXXXXXXXXXXXXXXXXXXX   ",
+" XX....................XX ",
+"X........................X",
+"X........................X",
+"X........................X",
+"X........................X",
+"X......XX........XXX.....X",
+"X......XXX......XXXX.....X",
+"X.......XXXX..XXXX.......X",
+"X.......XXXX..XXXX.......X",
+"X........XXXXXXXX........X",
+"X.........XXXXXX.........X",
+"X.........XXXXXX.........X",
+"X.........XXXXXX.........X",
+"X........XXXXXXXX........X",
+"X.......XXXX..XXXX.......X",
+"X......XXX......XXXX.....X",
+"X......XX........XXX.....X",
+"X......XX........XXX.....X",
+"X........................X",
+"X........................X",
+"X........................X",
+" XX....................XX ",
+" XX....................XX ",
+"   XXXXXXXXXXXXXXXXXXXX   "
+};

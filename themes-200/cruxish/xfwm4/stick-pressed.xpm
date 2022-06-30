@@ -1,0 +1,36 @@
+/* XPM */
+static char *stick_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"26 26 4 1 ",
+"  c black",
+". c #B2B2B2 s active_shadow_2",
+"X c #D8D8D8 s active_color_2",
+"o c #FFFFFF s active_hilight_2",
+/* pixels */
+"                          ",
+"                          ",
+"  ......................  ",
+"  ......................  ",
+"  ..XXXXXXXXXXXXXXXXXXoo  ",
+"  ..XXXXXXXXXXXXXXXXXXoo  ",
+"  ..XXXXXXXXXXXXXXXXXXoo  ",
+"  ..XXXXXXXXXXXXXXXXXXoo  ",
+"  ..XXXXXXXX      XXXXoo  ",
+"  ..XXXXXXXX      XXXXoo  ",
+"  ..XXXXXX  XXXXXX  XXoo  ",
+"  ..XXXXXX  XXXXXX  XXoo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXX  XXXXXXXXXX  oo  ",
+"  ..XXXXXX  XXXXXX  XXoo  ",
+"  ..XXXXXX  XXXXXX  XXoo  ",
+"  ..XXXXXXXX      XXXXoo  ",
+"  ..XXXXXXXX      XXXXoo  ",
+"  ..oooooooooooooooooooo  ",
+"  ..oooooooooooooooooooo  ",
+"                          ",
+"                          "
+};
