@@ -1,26 +1,30 @@
 /* XPM */
-static char *minimize_clicked[] = {
+static char *hide_pressed[] = {
 /* columns rows colors chars-per-pixel */
-"16 16 4 1",
+"20 20 4 1 ",
 "  c black",
 ". c gray50",
 "X c gray80",
 "o c white",
 /* pixels */
-"...............X",
-".oooooooooooooXo",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXX      XXX.o",
-".oXXXX    XXXX.o",
-".oXXXXX  XXXXX.o",
-".oXXXXXXXXXXXX.o",
-".X.............o",
-"Xooooooooooooooo"
+"...................X",
+".oooooooooooooooooXo",
+".oooooooooooooooooXo",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXX        XXXX.o",
+".ooXXXXX     XXXXX.o",
+".ooXXXXXX  XXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".XX................o",
+"Xooooooooooooooooooo"
 };

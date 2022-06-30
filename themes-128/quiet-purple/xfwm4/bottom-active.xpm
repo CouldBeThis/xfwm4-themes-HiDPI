@@ -1,8 +1,11 @@
 /* XPM */
-static char * bottom_active_xpm[] = {
-"8 3 2 1",
-" 	c None",
-".	c #7A6A99",
-"........",
-"........",
-"........"};
+static char *bottom_active[] = {
+/* columns rows colors chars-per-pixel */
+"10 4 1 1 ",
+"  c #7A6A99",
+/* pixels */
+"          ",
+"          ",
+"          ",
+"          "
+};

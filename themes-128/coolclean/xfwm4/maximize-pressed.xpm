@@ -1,26 +1,30 @@
 /* XPM */
-static char *maximize_clicked[] = {
+static char *maximize_pressed[] = {
 /* columns rows colors chars-per-pixel */
-"16 16 4 1",
+"20 20 4 1 ",
 "  c black",
 ". c gray50",
 "X c gray80",
 "o c white",
 /* pixels */
-"...............X",
-".oooooooooooooXo",
-".oXXXXXXXXXXXX.o",
-".oX          X.o",
-".oX          X.o",
-".oX          X.o",
-".oX XXXXXXXX X.o",
-".oX XXXXXXXX X.o",
-".oX XXXXXXXX X.o",
-".oX XXXXXXXX X.o",
-".oX XXXXXXXX X.o",
-".oX XXXXXXXX X.o",
-".oX          X.o",
-".oXXXXXXXXXXXX.o",
-".X.............o",
-"Xooooooooooooooo"
+"...................X",
+".oooooooooooooooooXo",
+".oooooooooooooooooXo",
+".ooXXXXXXXXXXXXXXX.o",
+".ooX            XX.o",
+".ooX            XX.o",
+".ooX            XX.o",
+".ooX            XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX XXXXXXXXXX XX.o",
+".ooX            XX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".XX................o",
+"Xooooooooooooooooooo"
 };

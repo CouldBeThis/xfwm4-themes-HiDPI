@@ -1,21 +1,27 @@
 /* XPM */
-static char * stick_active_xpm[] = {
-"13 13 5 1",
-" 	c None",
-".	c #000000 s active_border_color",
-"+	c #FFFFFF s active_hilight_2",
-"@	c #D8D8D8 s active_color_2",
-"#	c #B2B2B2 s active_shadow_2",
-".............",
-".+++++++++++.",
-".+@@@@@@@@@#.",
-".+@@@...@@@#.",
-".+@@.@@@.@@#.",
-".+@.@@@@@.@#.",
-".+@.@@@@@.@#.",
-".+@.@@@@@.@#.",
-".+@@.@@@.@@#.",
-".+@@@...@@@#.",
-".+@@@@@@@@@#.",
-".+##########.",
-"............."};
+static char *stick_active[] = {
+/* columns rows colors chars-per-pixel */
+"17 17 4 1 ",
+"  c black",
+". c #B2B2B2 s active_shadow_2",
+"X c #D8D8D8 s active_color_2",
+"o c white",
+/* pixels */
+"                 ",
+" ooooooooooooooo ",
+" ooooooooooooooo ",
+" ooXXXXXXXXXXX.. ",
+" ooXXXX   XXXX.. ",
+" ooXX  XXX  XX.. ",
+" ooXX  XXX  XX.. ",
+" ooX XXXXXXX X.. ",
+" ooX XXXXXXX X.. ",
+" ooX XXXXXXX X.. ",
+" ooXX  XXX  XX.. ",
+" ooXX  XXX  XX.. ",
+" ooXXXX   XXXX.. ",
+" ooXXXXXXXXXXX.. ",
+" oo............. ",
+" oo............. ",
+"                 "
+};

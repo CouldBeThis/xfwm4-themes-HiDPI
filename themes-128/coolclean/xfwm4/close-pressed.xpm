@@ -1,26 +1,30 @@
 /* XPM */
-static char *close_clicked[] = {
+static char *close_pressed[] = {
 /* columns rows colors chars-per-pixel */
-"16 16 4 1",
+"20 20 4 1 ",
 "  c black",
 ". c gray50",
 "X c gray80",
 "o c white",
 /* pixels */
-"...............X",
-".oooooooooooooXo",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXX   XXXXX.o",
-".oXXXX   XXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".oXXXXXXXXXXXX.o",
-".X.............o",
-"Xooooooooooooooo"
+"...................X",
+".oooooooooooooooooXo",
+".oooooooooooooooooXo",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXX   XXXXXXX.o",
+".ooXXXXX   XXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".ooXXXXXXXXXXXXXXX.o",
+".XX................o",
+"Xooooooooooooooooooo"
 };

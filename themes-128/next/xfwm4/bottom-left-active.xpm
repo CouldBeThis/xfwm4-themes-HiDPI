@@ -1,15 +1,19 @@
 /* XPM */
-static char * resize_active_xpm[] = {
-"23 7 5 1",
-" 	c None",
-".	c #000000",
-"+	c #FFFFFF s active_hilight_2",
-"@	c #BFBFBF s active_color_2",
-"#	c #8F8F8F s active_shadow_2",
-".......................",
-".+++++++++++++++++++.++",
-".+@@@@@@@@@@@@@@@@@#.+@",
-".+@@@@@@@@@@@@@@@@@#.+@",
-".+@@@@@@@@@@@@@@@@@#.+@",
-".+##################.+#",
-"......................."};
+static char *bottom_left_active[] = {
+/* columns rows colors chars-per-pixel */
+"29 9 4 1 ",
+"  c black",
+". c gray56",
+"X c gray75",
+"o c white",
+/* pixels */
+"                             ",
+" oooooooooooooooooooooooo ooo",
+" oooooooooooooooooooooooo ooo",
+" ooXXXXXXXXXXXXXXXXXXXXX. ooX",
+" ooXXXXXXXXXXXXXXXXXXXXX. ooX",
+" ooXXXXXXXXXXXXXXXXXXXXX. ooX",
+" oo...................... oo.",
+" oo...................... oo.",
+"                             "
+};
