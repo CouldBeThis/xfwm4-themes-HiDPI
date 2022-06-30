@@ -5,7 +5,7 @@
 
 This is pretty crude but gets the basics done with a minimum of fooling aorund. Touch ups will still be required on individual themes, especially with regards to lines that got excessively thickened.
 
-* Uses [`ImageMagick`](https://imagemagick.org/)'s [`mogrify`](https://imagemagick.org/script/mogrify.php)
+* Uses [`ImageMagick`](https://imagemagick.org/)'s [`-sample](https://imagemagick.org/Usage/resize/#sample) to resize without any fancy interpolation
 
 * It will descend into subdirectories (it is recursive)
 
@@ -13,19 +13,22 @@ This is pretty crude but gets the basics done with a minimum of fooling aorund. 
 
 * On my underpowered computer, this operation takes a few minutes to run. Be patient.
 
+* There is probably a better way to do it, but at the moment it runs once for `xpm` then again for `png`.
+
 In the terminal, `cd` into a directory containing themes you wish to make larger, then run:
 
-#### 200%
-
 ```sh
-find . -name "*.xpm" -exec magick mogrify -resize 200% {} \;
+find . -name "*.xpm" | xargs -I @ magick @ -sample 200% @ &&
+find . -name "*.png" | xargs -I @ magick @ -sample 200% @
 ```
 
-#### 150%
+does **not** work to use [`mogrify`](https://imagemagick.org/script/mogrify.php), because it makes a bluy image that fails at gtk color pickup. An example of how this doesn't work can be acheieved with:
 
 ```sh
-find . -name "*.xpm" -exec magick mogrify -resize 150% {} \;
+#find . -name "*.xpm" -exec magick mogrify -resize 200% {} \;
 ```
+
+
 
 ### link all themes into user theme folder
 
