@@ -1,21 +1,26 @@
 /* XPM */
-static char * maximize_inactive_xpm[] = {
-"11 11 7 1",
-" 	c None",
-".	c #000000",
-"+	c #FFFFFF s inactive_hilight_2",
-"@	c #D6D6CC s inactive_color_2",
-"#	c #63615F s inactive_shadow_1",
-"$	c #9B9B8A s inactive_shadow_2",
-"%	c #D6D6CC s inactive_mid_2",
-"@@@@@@@@@@@",
-"@@@@@@@@@@@",
-"@@.......@@",
-"@@.......@@",
-"@@..$$$..@@",
-"@@..%%%..@@",
-"@@..@@@..@@",
-"@@.......@@",
-"@@.......@@",
-"@@$$$$$$$@@",
-"@@%%%%%%%@@"};
+static char *maximize_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"17 17 3 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_2",
+"X c #D6D6CC s inactive_mid_2",
+/* pixels */
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXX           XXX",
+"XXX           XXX",
+"XXX           XXX",
+"XXX   .....   XXX",
+"XXX   .....   XXX",
+"XXX   XXXXX   XXX",
+"XXX   XXXXX   XXX",
+"XXX   XXXXX   XXX",
+"XXX           XXX",
+"XXX           XXX",
+"XXX           XXX",
+"XXX...........XXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX"
+};

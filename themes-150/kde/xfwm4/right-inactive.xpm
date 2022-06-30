@@ -1,15 +1,21 @@
 /* XPM */
-static char * right_inactive_xpm[] = {
-"4 8 4 1",
-" 	c None",
-".	c #6A6D6A s inactive_shadow_2",
-"+	c #DEDEDE s inactive_color_2",
-"@	c #000000 s inactive_border_color",
-".+.@",
-".+.@",
-".+.@",
-".+.@",
-".+.@",
-".+.@",
-".+.@",
-".+.@"};
+static char *right_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"6 12 3 1 ",
+"  c black",
+". c #6A6D6A s inactive_shadow_2",
+"X c #DEDEDE s inactive_color_2",
+/* pixels */
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. ",
+"..X.. "
+};
