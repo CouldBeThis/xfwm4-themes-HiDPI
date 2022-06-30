@@ -1,6 +1,10 @@
 /* XPM */
-static char * dummy_button_xpm[] = {
-"1 1 1 1",
-"       c None",
-" "};
-
+static char *stick_active[] = {
+/* columns rows colors chars-per-pixel */
+"3 3 1 1 ",
+"  c None",
+/* pixels */
+"   ",
+"   ",
+"   "
+};

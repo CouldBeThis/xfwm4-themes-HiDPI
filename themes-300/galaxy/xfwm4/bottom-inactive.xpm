@@ -1,16 +1,30 @@
 /* XPM */
-static char * bottom_inactive_xpm[] = {
-"32 6 7 1",
-" 	c None",
-".	c #DEDEDF",
-"+	c #D4D6D7",
-"@	c #CBCBCE",
-"#	c #C4C3C6",
-"$	c #A8A9AA",
-"%	c #3C3C3C",
-"................................",
-"++++++++++++++++++++++++++++++++",
-"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-"################################",
-"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$",
-"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"};
+static char *bottom_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"96 18 6 1 ",
+"  c #3C3C3C",
+". c #A8A9AA",
+"X c #C4C3C6",
+"o c #CBCBCE",
+"O c #D4D6D7",
+"+ c #DEDEDF",
+/* pixels */
+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++",
+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++",
+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"................................................................................................",
+"................................................................................................",
+"................................................................................................",
+"                                                                                                ",
+"                                                                                                ",
+"                                                                                                "
+};

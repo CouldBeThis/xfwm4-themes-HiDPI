@@ -1,13 +1,25 @@
 /* XPM */
-static char * bottom_active_xpm[] = {
-"8 5 5 1",
-" 	c None",
-".	c #E6E3E1 s active_color_2",
-"+	c #D2CFCC s active_mid_2",
-"@	c #A39C97 s active_shadow_2",
-"&	c #4B58A2 s active_shadow_1",
-"........",
-"........",
-"++++++++",
-"@@@@@@@@",
-"&&&&&&&&"};
+static char *bottom_active[] = {
+/* columns rows colors chars-per-pixel */
+"24 15 4 1 ",
+"  c #4B58A2 s active_shadow_1",
+". c #A39C97 s active_shadow_2",
+"X c #D2CFCC s active_mid_2",
+"o c #E6E3E1 s active_color_2",
+/* pixels */
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"........................",
+"........................",
+"........................",
+"                        ",
+"                        ",
+"                        "
+};
