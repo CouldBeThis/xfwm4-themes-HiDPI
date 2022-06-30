@@ -1,6 +1,10 @@
 
 # xfwm4 themes HiDPI
 
+### not working
+
+Themes which include `.svg` files are not properly adjusted by the below. Affected is `default-4.4`, `default-4.6` and `default-4.8`.
+
 ### how to programatically increase size of `xfwm4` themes
 
 This is pretty crude but gets the basics done with a minimum of fooling aorund. Touch ups will still be required on individual themes, especially with regards to lines that got excessively thickened.
@@ -27,8 +31,6 @@ does **not** work to use [`mogrify`](https://imagemagick.org/script/mogrify.php)
 ```sh
 #find . -name "*.xpm" -exec magick mogrify -resize 200% {} \;
 ```
-
-
 
 ### link all themes into user theme folder
 
