@@ -1,0 +1,22 @@
+/* XPM */
+static char *bottom_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"33 12 4 1 ",
+"  c black",
+". c gray56",
+"X c #BFBFBF s inactive_color_2",
+"o c #FFFFFF s inactive_hilight_2",
+/* pixels */
+"                                 ",
+"                                 ",
+"ooooooooooooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+".................................",
+"                                 ",
+"                                 "
+};

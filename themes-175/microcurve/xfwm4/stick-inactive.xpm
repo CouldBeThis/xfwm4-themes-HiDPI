@@ -1,0 +1,37 @@
+/* XPM */
+static char *stick_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"23 26 5 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_1",
+"X c #ABABAA s inactive_mid_1",
+"o c #D6D6CC s inactive_color_1",
+"O c white",
+/* pixels */
+"                       ",
+"                       ",
+"OOOOOOOOOOOOOOOOOOOOOOO",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooo oooo  ooooo",
+"ooooooooooo       ooooo",
+"ooooooooooo       ooooo",
+"ooooo             ooooo",
+"ooooo             ooooo",
+"ooooo......       ooooo",
+"ooooo......       ooooo",
+"ooooooooooo ....  ooooo",
+"ooooooooooo.oooo..ooooo",
+"ooooooooooo.oooo..ooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXX",
+".......................",
+"                       ",
+"                       "
+};
