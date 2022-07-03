@@ -1,18 +1,18 @@
 # xfwm4 themes in HiDPI
 
-I made this because when I enabled [HiDPI in xfce4](https://wiki.archlinux.org/title/HiDPI#Xfce), almost all of the `xfwm` themes available were unusably small.
+I made this because when I enabled [HiDPI in xfce4](https://wiki.archlinux.org/title/HiDPI#Xfce), almost all of the `xfwm` themes available were unusably small.  
 
-## Known issues
-
-Themes which include `.svg` files are not properly adjusted by the below. Affected is `default-4.4`, `default-4.6` and `default-4.8`.
+![ops-300-200-175-150-100](docs/images/ops-300-200-175-150-100.png)
 
 ## Install
 
 Clone the repo or download the `.zip`  from github. To get the `zip` file, scroll to the top of the [repo main page](https://github.com/CouldBeThis/xfwm4-themes-HiDPI/) and click the green "Code" button which should open a pop-up. Select "download ZIP". Once you extract the `zip` file you will have the entire repo. 
 
-Find the themes you want and install them into either your user or system theme folder. More info on that: [howto:xfwm4_theme [Xfce Wiki] Themes locations](https://wiki.xfce.org/howto/xfwm4_theme#themes_locations).
+General theme install instructions found here: [howto:install_new_themes](https://wiki.xfce.org/howto:install_new_themes)
 
-You must put the theme folder itself into the appropriate directory. For example, if you move the directory  [`themes-175`](themes-175) into `~/.themes`, it will *not* work. Rather, you must move/copy, for examples the folder `iceg`  itself into `~/.themes`. 
+Find the themes you want and install them into either your user or system theme folder.  More info on that: [howto:xfwm4_theme [Xfce Wiki] Themes locations](https://wiki.xfce.org/howto/xfwm4_theme#themes_locations).
+
+You must put the theme folder itself into the appropriate directory. For example, if you move the directory  [`themes-175`](themes-175) into `~/.themes`, it will *not* work. Rather, you must move/copy, for example the folder `iceg`  itself into `~/.themes`. 
 
 Of course  this makes a conflict if you want to have more than one size installed of a given themes. Which is why I use symlinks instead. 
 
@@ -20,7 +20,9 @@ Of course  this makes a conflict if you want to have more than one size installe
 
 This will allow easy `pull` from git in case there is an update in 20 years. It also allows you to name themes according to your preference. 
 
-In the terminal, `cd` into the directory containing the size you want, for example [`themes-200`](themes-200)
+Using this method, you first download the repo to any place on your computer that is convenient to you. It will need to remain in that location permanently in order to keep the themes working.
+
+In the terminal, `cd` into the directory containing the size you want, for example [`themes-200`](themes-200). 
 
 * the below will precede all names with `200-`; omit or change per your preference
 
@@ -29,7 +31,7 @@ In the terminal, `cd` into the directory containing the size you want, for examp
 ls -1 | xargs -I @ ln -s $PWD/@ ~/.themes/200-@
 ```
 
-
+Now if you run "Window Manager" settings (`xfwm4-settings`) you will find all the 200% themes available by names such as `200-iceg`. 
 
 ### Repo organization
 
@@ -37,7 +39,9 @@ Each directory contains a full set of themes at the magnification % indicated by
 
 ## Screenshots
 
-Here are a few examples. Except as noted above (the `default` themes) all the themes are present in all the sizes; I just got lazy making screenshots. 
+Here are a few examples. Except as noted (the `default` themes) all the themes are present in all the sizes; I just got lazy making screenshots. 
+
+In the titlebar of each window, you can see the name of the theme and the scale. For example, `300-ops` is the theme `ops` at 300% scale, found here: [themes-300/ops](themes-300/ops).
 
 ![ops-300-200-175-150-100](docs/images/ops-300-200-175-150-100.png)
 
@@ -65,8 +69,9 @@ I used [`ImageMagick`](https://imagemagick.org/)'s [`-sample`](https://imagemagi
 
 * On my low powered computer, this operation takes a few minutes to run on the entire collection. Be patient.
 
+#### Programatically scaling themes
 
-In the terminal, `cd` into a directory containing themes you wish to make larger, then run:
+Read the above notes. In the terminal, `cd` into a directory containing themes you wish to make larger, then run:
 
 ```sh
 find . -name "*.xpm" -o -name "*.png" | xargs -I @ magick @ -sample 175% @
@@ -74,7 +79,15 @@ find . -name "*.xpm" -o -name "*.png" | xargs -I @ magick @ -sample 175% @
 
 
 
+## Known issues
 
+Themes which include `.svg` files are not properly adjusted by the below. Affected is `default-4.4`, `default-4.6` and `default-4.8`.
+
+## Credits
+
+There is no original work here; it is all merely modifications of work done by others. 
+
+ * Upstream was [Distrotech/xfwm4-themes](https://github.com/Distrotech/xfwm4-themes); it is a mirror of a repo that no longer exists, though it is [archived](https://git.xfce.org/archive/xfwm4-themes). Some [discussion](https://askubuntu.com/questions/1184207/where-can-i-get-xfwm4-themes-on-xubuntu-19-10) of this.
 
 
 
