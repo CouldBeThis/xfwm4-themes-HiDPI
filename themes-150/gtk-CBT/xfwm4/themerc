@@ -1,7 +1,8 @@
 full_width_title=true
 button_offset=0
 button_spacing=0
-title_vertical_offset_active=2
-title_vertical_offset_inactive=2
+# CBT: 2022-03-26 titleoffset fixed
+title_vertical_offset_active=4
+title_vertical_offset_inactive=4
 active_border_color=#000000
 inactive_border_color=#000000
