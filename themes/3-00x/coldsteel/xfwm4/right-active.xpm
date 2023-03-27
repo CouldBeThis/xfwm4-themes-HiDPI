@@ -1,0 +1,17 @@
+/* XPM */
+static char *right_active[] = {
+/* columns rows colors chars-per-pixel */
+"21 6 5 1 ",
+"  c None",
+". c black",
+"X c #7F7F7F s active_shadow_2",
+"o c #CFCFCF s active_color_2",
+"O c #F7F7F7 s active_hilight_2",
+/* pixels */
+"...OOOoooXXX...      ",
+"...OOOoooXXX...      ",
+"...OOOoooXXX...      ",
+"...OOOoooXXX...      ",
+"...OOOoooXXX...      ",
+"...OOOoooXXX...      "
+};

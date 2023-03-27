@@ -1,0 +1,24 @@
+/* XPM */
+static char *bottom_active[] = {
+/* columns rows colors chars-per-pixel */
+"22 10 8 1 ",
+"  c #B2B2B2",
+". c #C1C1C1",
+"X c #C4C4C4",
+"o c #EEEEEE",
+"O c gray95",
+"+ c gray96",
+"@ c #F9F9F9",
+"# c #FDFDFD",
+/* pixels */
+"OO++@@++++@@##@@@@@@##",
+"OO++@@++++@@##@@@@@@##",
+"oo++@@++++@@##@@++@@##",
+"oo++@@++++@@##@@++@@##",
+"oooooooooooooooooooooo",
+"oooooooooooooooooooooo",
+"..XXXX..XXXXXX..XXXXXX",
+"..XXXX..XXXXXX..XXXXXX",
+"                      ",
+"                      "
+};

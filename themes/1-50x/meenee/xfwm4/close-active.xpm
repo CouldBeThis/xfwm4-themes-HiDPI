@@ -1,0 +1,34 @@
+/* XPM */
+static char *close_active[] = {
+/* columns rows colors chars-per-pixel */
+"20 23 5 1 ",
+"  c black",
+". c #9B9B8A s active_shadow_2",
+"X c #ABABAA s active_mid_2",
+"o c #D6D6CC s active_color_2",
+"O c #FFFFFF s active_hilight_2",
+/* pixels */
+"                    ",
+"                    ",
+"OOOOOOOOOOOOOOOOOOoo",
+"OOoooooooooooooooo..",
+"OOoooooooooooooooo..",
+"OOoooooooooooooooo..",
+"OOooo   oooo   ooo..",
+"OOooo   oooo   ooo..",
+"OOooo    oo    ooo..",
+"OOooo.        .ooo..",
+"OOooo.        .ooo..",
+"OOoooo..    ..oooo..",
+"OOoooo        oooo..",
+"OOoooo        oooo..",
+"OOooo    ..    ooo..",
+"OOooo   .oo.   ooo..",
+"OOooo   .oo.   ooo..",
+"OOooo...oooo...ooo..",
+"OOoooooooooooooooo..",
+"OOoooooooooooooooo..",
+"ooXXXXXXXXXXXXXXXX..",
+"....................",
+"...................."
+};

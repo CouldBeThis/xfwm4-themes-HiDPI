@@ -1,0 +1,26 @@
+/* XPM */
+static char *shade_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"17 17 3 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_2",
+"X c #D6D6CC s inactive_mid_2",
+/* pixels */
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXX XXXXXXXX",
+"XXXXXX     XXXXXX",
+"XXXXXX     XXXXXX",
+"XXXXX       XXXXX",
+"XXX     .     XXX",
+"XXX     .     XXX",
+"XXX   ..X..   XXX",
+"XXX...XXXXX...XXX",
+"XXX...XXXXX...XXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX"
+};

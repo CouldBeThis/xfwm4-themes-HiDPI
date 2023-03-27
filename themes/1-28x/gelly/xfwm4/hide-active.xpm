@@ -1,0 +1,36 @@
+/* XPM */
+static char *hide_active[] = {
+/* columns rows colors chars-per-pixel */
+"23 26 4 1 ",
+"  c None",
+". c black",
+"X c #4B58A2 s active_shadow_1",
+"o c white",
+/* pixels */
+"                       ",
+"                       ",
+"                       ",
+"   XXXXXXXXXXXXXXXXX   ",
+" XXoooooooooooooooooXX ",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"Xooooooo.......oooooooX",
+"Xooooooo.......oooooooX",
+"Xooooooo.......oooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+"XoooooooooooooooooooooX",
+" XXoooooooooooooooooXX ",
+" XXoooooooooooooooooXX ",
+"   XXXXXXXXXXXXXXXXX   "
+};

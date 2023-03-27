@@ -1,0 +1,34 @@
+/* XPM */
+static char *stick_active[] = {
+/* columns rows colors chars-per-pixel */
+"20 23 5 1 ",
+"  c black",
+". c #9B9B8A s active_shadow_2",
+"X c #ABABAA s active_mid_2",
+"o c #D6D6CC s active_color_2",
+"O c white",
+/* pixels */
+"                    ",
+"                    ",
+"OOOOOOOOOOOOOOOOOOOO",
+"oooooooooooooooooooo",
+"oooooooooooooooooooo",
+"oooooooooooooooooooo",
+"oooooooooooooooooooo",
+"oooooooooooooooooooo",
+"ooooooooo  ooo ooooo",
+"ooooooooo      ooooo",
+"ooooooooo      ooooo",
+"ooooo          ooooo",
+"ooooo....      ooooo",
+"ooooo....      ooooo",
+"ooooooooo  ... ooooo",
+"ooooooooo..ooo.ooooo",
+"ooooooooo..ooo.ooooo",
+"oooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXX",
+"....................",
+"                    ",
+"                    "
+};

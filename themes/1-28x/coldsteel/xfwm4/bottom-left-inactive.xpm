@@ -1,0 +1,20 @@
+/* XPM */
+static char *bottom_left_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"9 9 5 1 ",
+"  c None",
+". c black",
+"X c gray50",
+"o c gray81",
+"O c gray97",
+/* pixels */
+"   .OoXX.",
+"   .OoXXO",
+"   .OoXXO",
+"   .Ooooo",
+"   .OXXXX",
+"   ......",
+"         ",
+"         ",
+"         "
+};

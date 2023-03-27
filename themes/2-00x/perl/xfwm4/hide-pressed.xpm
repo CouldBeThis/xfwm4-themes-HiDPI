@@ -1,0 +1,29 @@
+/* XPM */
+static char *hide_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"18 20 3 1 ",
+"  c None",
+". c #CFCFCF s active_shadow_2",
+"X c #F7F7F7 s active_color_2",
+/* pixels */
+"                  ",
+"                  ",
+"XXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXX",
+"XX..............XX",
+"XX..............XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..............XX",
+"XX..............XX",
+"XX..XXXXXXXXXX..XX",
+"XX..XXXXXXXXXX..XX",
+"XX..............XX",
+"XX..............XX",
+"XXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXX"
+};

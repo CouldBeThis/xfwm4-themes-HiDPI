@@ -1,0 +1,26 @@
+/* XPM */
+static char *menu_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"17 17 3 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_2",
+"X c #D6D6CC s inactive_mid_2",
+/* pixels */
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXX   XXXXX   XXX",
+"XXX     X     XXX",
+"XXX     X     XXX",
+"XXX..       ..XXX",
+"XXXXX.     .XXXXX",
+"XXXXX.     .XXXXX",
+"XXXXXX.. ..XXXXXX",
+"XXXXXXXX.XXXXXXXX",
+"XXXXXXXX.XXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXX"
+};

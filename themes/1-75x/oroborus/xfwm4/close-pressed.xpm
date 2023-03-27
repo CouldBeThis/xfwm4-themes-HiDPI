@@ -1,0 +1,35 @@
+/* XPM */
+static char *close_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"26 26 3 1 ",
+"  c black",
+". c #B2B2B2 s active_shadow_2",
+"X c white",
+/* pixels */
+"..........................",
+"..........................",
+"..                      XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXX   XXXXXX   XXXX XX",
+".. XXXX   XXXXXX   XXXX XX",
+".. XXXX     XX     XXXX XX",
+".. XXXXXX        XXXXXX XX",
+".. XXXXXX        XXXXXX XX",
+".. XXXXXXX      XXXXXXX XX",
+".. XXXXXXX      XXXXXXX XX",
+".. XXXXXX        XXXXXX XX",
+".. XXXXXX        XXXXXX XX",
+".. XXXX     XX     XXXX XX",
+".. XXXX   XXXXXX   XXXX XX",
+".. XXXX   XXXXXX   XXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+".. XXXXXXXXXXXXXXXXXXXX XX",
+"..                      XX",
+"..XXXXXXXXXXXXXXXXXXXXXXXX",
+"..XXXXXXXXXXXXXXXXXXXXXXXX"
+};

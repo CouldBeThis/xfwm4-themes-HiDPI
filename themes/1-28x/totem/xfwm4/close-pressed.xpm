@@ -1,0 +1,33 @@
+/* XPM */
+static char *close_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"15 23 4 1 ",
+"  c black",
+". c #373534 s active_shadow_1",
+"X c gray70",
+"o c white",
+/* pixels */
+"               ",
+"ooooooooooooooo",
+"ooooooooooooooo",
+"...............",
+"...............",
+"...............",
+"...............",
+"...............",
+"...XX.....XXX..",
+"...XXX...XXXX..",
+"....XXXXXXX....",
+"....XXXXXXX....",
+".....XXXXX.....",
+".....XXXXX.....",
+"....XXXXXXX....",
+"...XXX...XXXX..",
+"...XXX...XXXX..",
+"...XX.....XXX..",
+"...............",
+"...............",
+"...............",
+"...............",
+"               "
+};

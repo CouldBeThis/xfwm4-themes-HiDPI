@@ -1,0 +1,23 @@
+/* XPM */
+static char *left_active[] = {
+/* columns rows colors chars-per-pixel */
+"6 6 11 1 ",
+"  c #94BAEE",
+". c #9CBEEE",
+"X c #9CC2F6",
+"o c #ACC2EE",
+"O c #B4CAF6",
+"+ c #BDCEF6",
+"@ c #D5DEEE",
+"# c #DEDEEE",
+"$ c #DEE2F6",
+"% c #DEE6F6",
+"& c #E6EAF6",
+/* pixels */
+"..O%%$",
+"..O%%$",
+"XX+&&&",
+"..O%%$",
+"..O%%$",
+"  o@@#"
+};

@@ -1,0 +1,38 @@
+/* XPM */
+static char *maximize_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"24 28 4 1 ",
+"  c None",
+". c #949594 s inactive_shadow_2",
+"X c #B4BAB4 s inactive_mid_2",
+"o c #D5D6D5 s inactive_color_2",
+/* pixels */
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"ooooo..........ooooooooo",
+"ooooo..........ooooooooo",
+"ooooo...XXXXX..ooooooooo",
+"ooooo...ooooo..X...ooooo",
+"ooooo...ooooo..X...ooooo",
+"ooooo...ooooo..X...ooooo",
+"ooooo...ooooo..o...ooooo",
+"ooooo..........o...ooooo",
+"ooooo..........o...ooooo",
+"ooooo..........o...ooooo",
+"oooooXXXXXXooooo...ooooo",
+"ooooooooo..........ooooo",
+"ooooooooo..........ooooo",
+"ooooooooo..........ooooo",
+"oooooooooXXXXXXXXXXooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"                        ",
+"                        ",
+"                        "
+};

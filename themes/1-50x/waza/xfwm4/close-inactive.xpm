@@ -1,0 +1,38 @@
+/* XPM */
+static char *close_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"24 27 5 1 ",
+"  c None",
+". c #567B9C s inactive_color_1",
+"X c #4B58A2 s inactive_shadow_1",
+"o c #949595 s inactive_shadow_1",
+"O c white",
+/* pixels */
+"                        ",
+"                        ",
+"                        ",
+"   XXXXXXXXXXXXXXXXXX   ",
+"   XXXXXXXXXXXXXXXXXX   ",
+"  XOOOOOOOOOOOOOOOOOOXX ",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOO..oOOOOOOoo.OOOOOX",
+"XXOOOO..oOOOOOOoo.OOOOOX",
+"XXOOOOoooooOOOooooOOOOOX",
+"XXOOOOOOoooooooooOOOOOOX",
+"XXOOOOOOoooooooooOOOOOOX",
+"XXOOOOOOOooooooOOOOOOOOX",
+"XXOOOOOOOooooooOOOOOOOOX",
+"XXOOOOOOOooooooOOOOOOOOX",
+"XXOOOOOOoooooooooOOOOOOX",
+"XXOOOOoooooOOOooooOOOOOX",
+"XXOOOOoooooOOOooooOOOOOX",
+"XXOOOO..oOOOOOOoo.OOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"  XOOOOOOOOOOOOOOOOOOXX ",
+"  XOOOOOOOOOOOOOOOOOOXX ",
+"   XXXXXXXXXXXXXXXXXX   "
+};

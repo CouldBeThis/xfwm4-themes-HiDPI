@@ -1,0 +1,37 @@
+/* XPM */
+static char *right_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"10 22 9 1 ",
+"  c #90A8CA",
+". c #93A9CA",
+"X c #9BAFC9",
+"o c #9DB1C9",
+"O c #9FBCDC",
+"+ c #A0B7CF",
+"@ c #A2BAD2",
+"# c #A5B8D6",
+"$ c #A6B9D6",
+/* pixels */
+"$$OO++XX..",
+"$$OO++XX..",
+"$$OO@@oo..",
+"$$OO@@oo..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX..",
+"$$OO@@XX  ",
+"$$OO@@oo..",
+"$$OO@@oo..",
+"$$OO@@oo..",
+"$$OO@@oo..",
+"$$OO@@XX..",
+"$$OO@@XX.."
+};

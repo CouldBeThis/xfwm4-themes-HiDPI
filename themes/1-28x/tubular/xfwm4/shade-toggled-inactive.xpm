@@ -1,0 +1,35 @@
+/* XPM */
+static char *shade_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"22 24 5 1 ",
+"  c None",
+". c #949594 s inactive_shadow_2",
+"X c #B4BAB4 s inactive_mid_2",
+"o c #D5D6D5 s inactive_color_2",
+"O c white",
+/* pixels */
+"                      ",
+"OOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOO",
+"oooooooooooooooooooooo",
+"oooooooooooooooooooooo",
+"oooooooooooooooooooooo",
+"ooooo............ooooo",
+"ooooo............ooooo",
+"ooooo...XXXXXX...ooooo",
+"oooooX...oooo...Xooooo",
+"ooooooXX..oo..XXoooooo",
+"ooooooooX....Xoooooooo",
+"ooooooooX....Xoooooooo",
+"oooooooooX..Xooooooooo",
+"ooooooooooXXoooooooooo",
+"oooo..............oooo",
+"oooo..............oooo",
+"oooo..............oooo",
+"ooooXXXXXXXXXXXXXXoooo",
+"oooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"......................",
+"......................",
+"                      "
+};

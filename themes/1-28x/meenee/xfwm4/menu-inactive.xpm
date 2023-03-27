@@ -1,0 +1,30 @@
+/* XPM */
+static char *menu_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"17 19 5 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_2",
+"X c #ABABAA s inactive_mid_2",
+"o c #D6D6CC s inactive_color_2",
+"O c #FFFFFF s inactive_hilight_2",
+/* pixels */
+"                 ",
+"OOOOOOOOOOOOOOOOo",
+"OOOOOOOOOOOOOOOOo",
+"Oooooooooooooooo.",
+"Oooooooooooooooo.",
+"Oooooooooooooooo.",
+"Oooo   ooo   ooo.",
+"Oooo   ooo   ooo.",
+"Oooo    o    ooo.",
+"Oooo.       .ooo.",
+"Ooooo..   ..oooo.",
+"Ooooooo. .oooooo.",
+"Ooooooo. .oooooo.",
+"Oooooooo.ooooooo.",
+"Oooooooooooooooo.",
+"Oooooooooooooooo.",
+"oXXXXXXXXXXXXXXX.",
+"oXXXXXXXXXXXXXXX.",
+"................."
+};

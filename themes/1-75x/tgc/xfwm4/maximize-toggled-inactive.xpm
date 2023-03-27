@@ -1,0 +1,33 @@
+/* XPM */
+static char *maximize_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"23 23 4 1 ",
+"  c black",
+". c #9B9B8A s inactive_shadow_2",
+"X c #B5B5A1 s inactive_mid_2",
+"o c #D6D6CC s inactive_color_2",
+/* pixels */
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"ooooooooooooooooooooooo",
+"oooo          ooooooooo",
+"oooo          ooooooooo",
+"oooo          ooooooooo",
+"oooo .......  ooooooooo",
+"oooo .......  ooooooooo",
+"oooo XXXXXXX  ..   oooo",
+"oooo XXXXXXX  ..   oooo",
+"oooo ooooooo  ..   oooo",
+"oooo          XX.. oooo",
+"oooo          XX.. oooo",
+"oooo..........ooXX oooo",
+"oooo..........ooXX oooo",
+"ooooXXXXX  XXXXXoo oooo",
+"ooooXXXXX  XXXXXoo oooo",
+"ooooooooo          oooo",
+"ooooooooo..........oooo",
+"ooooooooo..........oooo",
+"oooooooooXXXXXXXXXXoooo",
+"oooooooooXXXXXXXXXXoooo"
+};

@@ -1,0 +1,38 @@
+/* XPM */
+static char *stick_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"24 27 5 1 ",
+"  c None",
+". c #567B9C s inactive_mid_1",
+"X c #4B58A2 s inactive_shadow_1",
+"o c #949595 s inactive_shadow_1",
+"O c white",
+/* pixels */
+"                        ",
+"                        ",
+"                        ",
+"  .XXXXXXXXXXXXXXXXXX.. ",
+"  .XXXXXXXXXXXXXXXXXX.. ",
+"..XOOOOOOOOOOOOOOOOOOXX.",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOO.oooooo..OOOOOOX",
+"XXOOOOOO.oooooo..OOOOOOX",
+"XXOOOO..ooooooooo.OOOOOX",
+"XXOOOOooo..OOO.oooOOOOOX",
+"XXOOOOooo..OOO.oooOOOOOX",
+"XXOOOOoooOOoooOoooOOOOOX",
+"XXOOOOoooOOoooOoooOOOOOX",
+"XXOOOOoooOOoooOoooOOOOOX",
+"XXOOOOooo..OOO.oooOOOOOX",
+"XXOOOO..ooooooooo.OOOOOX",
+"XXOOOO..ooooooooo.OOOOOX",
+"XXOOOOOO.oooooo..OOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"XXOOOOOOOOOOOOOOOOOOOOOX",
+"..XOOOOOOOOOOOOOOOOOOXX.",
+"..XOOOOOOOOOOOOOOOOOOXX.",
+"  .XXXXXXXXXXXXXXXXXX.. "
+};

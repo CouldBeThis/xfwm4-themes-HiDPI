@@ -1,0 +1,31 @@
+/* XPM */
+static char *stick_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"22 22 3 1 ",
+"  c #949594 s inactive_shadow_2",
+". c #B4BAB4 s inactive_mid_2",
+"X c #D5D6D5 s inactive_color_2",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXX.    .XXXXXXXX",
+"XXXXXXXX.    .XXXXXXXX",
+"XXXXXX.. XXX. ..XXXXXX",
+"XXXXXX  XXXX..  .XXXXX",
+"XXXXXX  XX  ..  .XXXXX",
+"XXXXXX  XX  ..  .XXXXX",
+"XXXXXX  ......  ..XXXX",
+"XXXXXX.. .... ....XXXX",
+"XXXXXXXX.    .....XXXX",
+"XXXXXXXX.    .....XXXX",
+"XXXXXXXXX........XXXXX",
+"XXXXXXXXXXXX....XXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX"
+};

@@ -1,0 +1,32 @@
+/* XPM */
+static char *menu_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"25 25 1 1 ",
+"  c #FFCB00 s inactive_color_1",
+/* pixels */
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         ",
+"                         "
+};

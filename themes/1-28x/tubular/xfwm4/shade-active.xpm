@@ -1,0 +1,36 @@
+/* XPM */
+static char *shade_active[] = {
+/* columns rows colors chars-per-pixel */
+"22 24 6 1 ",
+"  c None",
+". c black",
+"X c #949594 s active_shadow_2",
+"o c #B4BAB4 s active_mid_2",
+"O c #D5D6D5 s active_color_2",
+"+ c white",
+/* pixels */
+"                      ",
+"++++++++++++++++++++++",
+"++++++++++++++++++++++",
+"OOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOO..OOOOOOOOOO",
+"OOOOOOOOOO..OOOOOOOOOO",
+"OOOOOOOOO....OOOOOOOOO",
+"OOOOOOOO..XX..OOOOOOOO",
+"OOOOOO...XooX...OOOOOO",
+"OOOOO...XoOOoX...OOOOO",
+"OOOOO...XoOOoX...OOOOO",
+"OOOOO............OOOOO",
+"OOOOOXXXXXXXXXXXXOOOOO",
+"OOOO..............OOOO",
+"OOOO..............OOOO",
+"OOOO..............OOOO",
+"OOOOXXXXXXXXXXXXXXOOOO",
+"OOOOooooooooooooooOOOO",
+"oooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXX",
+"                      "
+};
