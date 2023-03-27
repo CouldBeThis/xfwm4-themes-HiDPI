@@ -31,7 +31,7 @@ In the terminal, `cd` into the directory containing the size you want, for examp
 ls -1 | xargs -I @ ln -s $PWD/@ ~/.themes/200-@
 ```
 
-Now if you run "Window Manager" settings (`xfwm4-settings`) you will find all the 200% themes available by names such as `200-iceg`. 
+Now if you run "Window Manager" settings (`xfwm4-settings`) you will find all the 2.00x themes available by names such as `200-iceg`.
 
 ### Repo organization
 
