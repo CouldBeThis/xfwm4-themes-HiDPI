@@ -12,7 +12,7 @@
 ThisScriptDirRel="$(dirname "$0")"
 # 	echo -e "ThisScriptDirRel is $ThisScriptDirRel"
 ## import delcations (but hide the output)
-source "$ThisScriptDirRel/declarations.sh" > /dev/null
+source "$ThisScriptDirRel/declarations.sh" #> /dev/null
 
 echo -e "$c\ee------------------------"
 echo "A very simple script to create theme diretories in your USER folder."
