@@ -12,7 +12,7 @@ General theme install instructions found here: [howto:install_new_themes](https:
 
 Find the themes you want and install them into either your user or system theme folder.  More info on that: [howto:xfwm4_theme [Xfce Wiki] Themes locations](https://wiki.xfce.org/howto/xfwm4_theme#themes_locations).
 
-You must put the theme folder itself into the appropriate directory. For example, if you move the directory  [`themes-175`](themes-175) into `~/.themes`, it will *not* work. Rather, you must move/copy, for example the folder `iceg`  itself into `~/.themes`. 
+You must put the theme folder itself into the appropriate directory. For example, if you move the directory  [`themes/1-75x/`](themes/1-75x/) into `~/.themes`, it will *not* work. Rather, you must move/copy, for example the folder `iceg`  itself into `~/.themes`.
 
 Of course  this makes a conflict if you want to have more than one size installed of a given themes. Which is why I use symlinks instead. 
 
@@ -22,7 +22,7 @@ This will allow easy `pull` from git in case there is an update in 20 years. It 
 
 Using this method, you first download the repo to any place on your computer that is convenient to you. It will need to remain in that location permanently in order to keep the themes working.
 
-In the terminal, `cd` into the directory containing the size you want, for example [`themes-200`](themes-200). 
+In the terminal, `cd` into the directory containing the size you want, for example [`themes/2-00x/`](themes/2-00x).
 
 * the below will precede all names with `200-`; omit or change per your preference
 
@@ -35,13 +35,15 @@ Now if you run "Window Manager" settings (`xfwm4-settings`) you will find all th
 
 ### Repo organization
 
-Each directory contains a full set of themes at the magnification % indicated by the name. For example [`themes-175`](themes-175) are themes at 175% magnification.  [`themes-100`](themes-100)  are the themes at 100% magnification, which is to say unmodified, for convenience and reference. 
+Each directory contains a full set of themes at the magnification % indicated by the name. For example [`themes/1-75x`](themes/1-75x) are themes are scale to 1.75 of the original (175% magnification).  [`themes/1-00x`](themes/1-00x)  are the original themes at 100% magnification, which is to say unmodified, for convenience and reference.
 
 ## Screenshots
 
 Here are a few examples. Except as noted (the `default` themes) all the themes are present in all the sizes; I just got lazy making screenshots. 
 
-In the titlebar of each window, you can see the name of the theme and the scale. For example, `300-ops` is the theme `ops` at 300% scale, found here: [themes-300/ops](themes-300/ops).
+In the titlebar of each window, you can see the name of the theme and the scale. When I made the screenshots, I was using a slightly different naming convention. For example,  in the screenshot it says `175`, this is now `1-75x`
+
+Example: If you are looking for the one titled `300-ops`, it is the theme `ops` at 3.00x magnification (300% scale), and found here: [`themes/3-00x/ops/`](themes/3-00x/ops/).
 
 ![ops-300-200-175-150-100](docs/images/ops-300-200-175-150-100.png)
 
