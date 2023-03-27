@@ -41,24 +41,30 @@ echo "$oo$bl^^^^^^^^^^^^^^^^^^^^^^^^^"
 
 
 echo -e "Hit $b\eeenter$bo to continue, $b\eectrl-c$bo to exit"
-# read -p "OK?" InputValue
+read -p "OK?" InputValue
 
 
+mkdir -p $ThemeDestDir
+
+cd $ThemeSourceDir
+
+# ls -1 | xargs -I @ ln -s $PWD/@ $ThemeDestDir
+
+cd $ThemeDestDir
 
 
+Scale="1-28x"
+ScaledSourceDir="$ThemeSourceDir/$Scale"
+	echo -e "$m$u\eeScaledSourceDir$uo:	$b$ScaledSourceDir$bo
+	↳ Directory containing subdirectories of scaled themes$bl"
 
+cd $ScaledSourceDir
+
+ls -1 | xargs -I @ ln -s $PWD/@ $ThemeDestDir/$Scale-@
 # ls -1 | xargs -I @ ln -s $PWD/@ ~/.themes/200-@
 
 
 
-
-
-
-
-
-
-
-
-
+# cp -r * ~/.themes
 
 echo "DONE$oo"

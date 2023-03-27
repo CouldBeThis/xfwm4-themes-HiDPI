@@ -93,5 +93,19 @@ WorkingDirUp2=$(cd ../.. && pwd)
 	echo -e "$u\eeWorkingDirUp2$uo:	$b$WorkingDirUp2$bo
 	↳ 2 level up from CWD"
 
+echo -e "
+$oo\eeSpecificaly required by this script:$r"
+
+RepoBaseDir="$WorkingDirUp1"
+	echo -e "$u\eeRepoBaseDir$uo:	$b$RepoBaseDir$bo
+	↳ Root of repo"
+
+ThemeSourceDir="$RepoBaseDir/themes"
+	echo -e "$u\eeThemeSourceDir$uo:	$b$ThemeSourceDir$bo
+	↳ Directory where all resized themes are (pre-packaging)"
+
+ThemeDestDir="$RepoBaseDir/themes-symlinks"
+	echo -e "$u\eeThemeDestDir$uo:	$b$ThemeDestDir$bo
+	↳ Directory to create the symlinks"
 
 echo "~~~~~~ end$oo"
