@@ -33,8 +33,10 @@ echo -e "CHECK: Is the script being run from the correct driectory?"
 echo "$oo$bl^^^^^^^^^^^^^^^^^^^^^^^^^"
 
 
-# 	echo -e "$r$b\eeEXITING:$bo please ONLY run this script from the $u\eescripts$uo subdirectory of the repo. I think it is:
-# 	$b$ThisScriptDirAbs$bo"
+
+
+
+
 
 
 
